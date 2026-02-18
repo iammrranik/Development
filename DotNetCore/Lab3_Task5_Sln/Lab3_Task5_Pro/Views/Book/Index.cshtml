@@ -1,0 +1,30 @@
+﻿
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Book Index</h1>
+
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Title</th>
+            <th>Author</th>
+            <th>Category</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach(var book in Model)
+        {
+            <tr>
+                <td>@book.Id</td>
+                <td>@book.Title</td>
+                <td>@book.Author</td>
+                <td>@book.Category</td>
+                <td><a href="/book/list/@book.Category" class="btn btn-secondary">Open category</a></td>
+            </tr>
+        }
+    </tbody>
+</table>
+

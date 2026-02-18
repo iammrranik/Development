@@ -1,0 +1,31 @@
+﻿
+@{
+    ViewData["Title"] = "List";
+}
+
+<h1>Filtered Book List</h1>
+
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Title</th>
+            <th>Author</th>
+            <th>Category</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var book in Model)
+        {
+            <tr>
+                <td>@book.Id</td>
+                <td>@book.Title</td>
+                <td>@book.Author</td>
+                <td>@book.Category</td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<a href="/book" class="btn btn-primary">Click to go back</a>
+

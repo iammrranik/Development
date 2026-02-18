@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "F:\\Development\\DotNetCore\\Lab3_Task4_Sln\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{19529C70-144A-262F-6F2F-7ADECEF68032}|Lab3_Task4_Pro\\Lab3_Task4_Pro.csproj|f:\\development\\dotnetcore\\lab3_task4_sln\\lab3_task4_pro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19529C70-144A-262F-6F2F-7ADECEF68032}|Lab3_Task4_Pro\\Lab3_Task4_Pro.csproj|solutionrelative:lab3_task4_pro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{19529C70-144A-262F-6F2F-7ADECEF68032}|Lab3_Task4_Pro\\Lab3_Task4_Pro.csproj|f:\\development\\dotnetcore\\lab3_task4_sln\\lab3_task4_pro\\views\\course\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{19529C70-144A-262F-6F2F-7ADECEF68032}|Lab3_Task4_Pro\\Lab3_Task4_Pro.csproj|solutionrelative:lab3_task4_pro\\views\\course\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -37,8 +41,25 @@
               "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\Development\\DotNetCore\\Lab3_Task4_Sln\\Lab3_Task4_Pro\\Program.cs",
+              "RelativeDocumentMoniker": "Lab3_Task4_Pro\\Program.cs",
+              "ToolTip": "F:\\Development\\DotNetCore\\Lab3_Task4_Sln\\Lab3_Task4_Pro\\Program.cs",
+              "RelativeToolTip": "Lab3_Task4_Pro\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T01:12:15.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "List.cshtml",
               "DocumentMoniker": "F:\\Development\\DotNetCore\\Lab3_Task4_Sln\\Lab3_Task4_Pro\\Views\\Course\\List.cshtml",
               "RelativeDocumentMoniker": "Lab3_Task4_Pro\\Views\\Course\\List.cshtml",
@@ -46,12 +67,11 @@
               "RelativeToolTip": "Lab3_Task4_Pro\\Views\\Course\\List.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-02-17T01:30:38.339Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-17T01:30:38.339Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Index.cshtml",
               "DocumentMoniker": "F:\\Development\\DotNetCore\\Lab3_Task4_Sln\\Lab3_Task4_Pro\\Views\\Course\\Index.cshtml",
               "RelativeDocumentMoniker": "Lab3_Task4_Pro\\Views\\Course\\Index.cshtml",
@@ -64,7 +84,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "CourseController.cs",
               "DocumentMoniker": "F:\\Development\\DotNetCore\\Lab3_Task4_Sln\\Lab3_Task4_Pro\\Controllers\\CourseController.cs",
               "RelativeDocumentMoniker": "Lab3_Task4_Pro\\Controllers\\CourseController.cs",
@@ -72,12 +92,11 @@
               "RelativeToolTip": "Lab3_Task4_Pro\\Controllers\\CourseController.cs",
               "ViewState": "AgIAABYAAAAAAAAAAAAgwC8AAABOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-16T15:00:09.312Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-16T15:00:09.312Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "CourseModel.cs",
               "DocumentMoniker": "F:\\Development\\DotNetCore\\Lab3_Task4_Sln\\Lab3_Task4_Pro\\Models\\CourseModel.cs",
               "RelativeDocumentMoniker": "Lab3_Task4_Pro\\Models\\CourseModel.cs",
@@ -85,8 +104,7 @@
               "RelativeToolTip": "Lab3_Task4_Pro\\Models\\CourseModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-16T14:45:15.264Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-16T14:45:15.264Z"
             }
           ]
         }
