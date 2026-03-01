@@ -15,10 +15,10 @@ def create_tab_and_minimize():
         # 3. Only act if it is visible
         if not active_window.isMinimized:
             
-            # Press Ctrl + T to create a new tab
-            with kb_controller.pressed(keyboard.Key.ctrl):
-                kb_controller.press('t')
-                kb_controller.release('t')
+            # # Press Ctrl + T to create a new tab
+            # with kb_controller.pressed(keyboard.Key.ctrl):
+            #     kb_controller.press('t')
+            #     kb_controller.release('t')
             
             # Small delay to let the browser process the new tab before minimizing
             time.sleep(0.1) 
