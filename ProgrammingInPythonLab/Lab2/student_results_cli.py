@@ -9,7 +9,7 @@
 
 # App functionalities implementation
 def add_student(students: list[dict]) -> None:
-    # sid = 
+    sid = 1 # To be continued
 
 # CLI menu printing function
 def print_menu() -> None:
