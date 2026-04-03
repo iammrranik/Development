@@ -10,7 +10,7 @@ public class Portal implements Runnable{
         while (ticketOffice.getAvailableTickets()>0){
             ticketOffice.sellTicket();
             try{
-                Thread.sleep(10);
+                Thread.sleep(1000);
             } catch (InterruptedException e) {
                 System.out.println("Error");
             }

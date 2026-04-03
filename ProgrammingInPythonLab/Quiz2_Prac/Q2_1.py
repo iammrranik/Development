@@ -37,3 +37,4 @@ print(fruits.index("banana"))
 print(fruits.count("apple"))
 
 print(fruits)
+
