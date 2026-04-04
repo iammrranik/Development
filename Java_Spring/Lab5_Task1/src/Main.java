@@ -1,10 +1,14 @@
 import java.util.ArrayList;
+<<<<<<< Updated upstream
 import java.util.Collections;
+=======
+>>>>>>> Stashed changes
 import java.util.Comparator;
 import java.util.List;
 
 public class Main{
     static void main(String[] args) {
+<<<<<<< Updated upstream
         List<Student> students = new ArrayList<>();
         students.add(new Student(1, "A", 18, 3.75f));
         students.add(new Student(2, "B", 20, 3.8f));
@@ -92,3 +96,23 @@ class StudentCgpaSort implements Comparator<Student> {
     }
 
 }
+=======
+        List<Integer> list = new ArrayList<>();
+
+        list.add(10);
+        list.add(40);
+        list.add(50);
+        list.add(20);
+        list.add(40);
+
+        @Override
+        void Comparator()
+
+        list.sort();
+
+        for(Integer item: list){
+            System.out.println(item);
+        }
+    }
+}
+>>>>>>> Stashed changes

@@ -1,5 +1,6 @@
 {
   "Version": 1,
+<<<<<<< Updated upstream
   "WorkspaceRootPath": "F:\\Development\\DotNetCore\\Lab7_Task1_Sln\\",
   "Documents": [
     {
@@ -13,6 +14,57 @@
     {
       "AbsoluteMoniker": "D:0:0:{B67E01E7-7F4C-0A1E-1EBF-A644FD2B8EB2}|Lab7_Task1_Pro\\Lab7_Task1_Pro.csproj|f:\\development\\dotnetcore\\lab7_task1_sln\\lab7_task1_pro\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{B67E01E7-7F4C-0A1E-1EBF-A644FD2B8EB2}|Lab7_Task1_Pro\\Lab7_Task1_Pro.csproj|solutionrelative:lab7_task1_pro\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+=======
+  "WorkspaceRootPath": "D:\\Development\\DotNetCore\\Lab7_Task1_Sln\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B67E01E7-7F4C-0A1E-1EBF-A644FD2B8EB2}|Lab7_Task1_Pro\\Lab7_Task1_Pro.csproj|d:\\development\\dotnetcore\\lab7_task1_sln\\lab7_task1_pro\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B67E01E7-7F4C-0A1E-1EBF-A644FD2B8EB2}|Lab7_Task1_Pro\\Lab7_Task1_Pro.csproj|solutionrelative:lab7_task1_pro\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B67E01E7-7F4C-0A1E-1EBF-A644FD2B8EB2}|Lab7_Task1_Pro\\Lab7_Task1_Pro.csproj|d:\\development\\dotnetcore\\lab7_task1_sln\\lab7_task1_pro\\views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B67E01E7-7F4C-0A1E-1EBF-A644FD2B8EB2}|Lab7_Task1_Pro\\Lab7_Task1_Pro.csproj|solutionrelative:lab7_task1_pro\\views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B67E01E7-7F4C-0A1E-1EBF-A644FD2B8EB2}|Lab7_Task1_Pro\\Lab7_Task1_Pro.csproj|d:\\development\\dotnetcore\\lab7_task1_sln\\lab7_task1_pro\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B67E01E7-7F4C-0A1E-1EBF-A644FD2B8EB2}|Lab7_Task1_Pro\\Lab7_Task1_Pro.csproj|solutionrelative:lab7_task1_pro\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B67E01E7-7F4C-0A1E-1EBF-A644FD2B8EB2}|Lab7_Task1_Pro\\Lab7_Task1_Pro.csproj|d:\\development\\dotnetcore\\lab7_task1_sln\\lab7_task1_pro\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B67E01E7-7F4C-0A1E-1EBF-A644FD2B8EB2}|Lab7_Task1_Pro\\Lab7_Task1_Pro.csproj|solutionrelative:lab7_task1_pro\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B67E01E7-7F4C-0A1E-1EBF-A644FD2B8EB2}|Lab7_Task1_Pro\\Lab7_Task1_Pro.csproj|d:\\development\\dotnetcore\\lab7_task1_sln\\lab7_task1_pro\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B67E01E7-7F4C-0A1E-1EBF-A644FD2B8EB2}|Lab7_Task1_Pro\\Lab7_Task1_Pro.csproj|solutionrelative:lab7_task1_pro\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B67E01E7-7F4C-0A1E-1EBF-A644FD2B8EB2}|Lab7_Task1_Pro\\Lab7_Task1_Pro.csproj|d:\\development\\dotnetcore\\lab7_task1_sln\\lab7_task1_pro\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B67E01E7-7F4C-0A1E-1EBF-A644FD2B8EB2}|Lab7_Task1_Pro\\Lab7_Task1_Pro.csproj|solutionrelative:lab7_task1_pro\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B67E01E7-7F4C-0A1E-1EBF-A644FD2B8EB2}|Lab7_Task1_Pro\\Lab7_Task1_Pro.csproj|d:\\development\\dotnetcore\\lab7_task1_sln\\lab7_task1_pro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B67E01E7-7F4C-0A1E-1EBF-A644FD2B8EB2}|Lab7_Task1_Pro\\Lab7_Task1_Pro.csproj|solutionrelative:lab7_task1_pro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B67E01E7-7F4C-0A1E-1EBF-A644FD2B8EB2}|Lab7_Task1_Pro\\Lab7_Task1_Pro.csproj|d:\\development\\dotnetcore\\lab7_task1_sln\\lab7_task1_pro\\ef\\tables\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B67E01E7-7F4C-0A1E-1EBF-A644FD2B8EB2}|Lab7_Task1_Pro\\Lab7_Task1_Pro.csproj|solutionrelative:lab7_task1_pro\\ef\\tables\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B67E01E7-7F4C-0A1E-1EBF-A644FD2B8EB2}|Lab7_Task1_Pro\\Lab7_Task1_Pro.csproj|d:\\development\\dotnetcore\\lab7_task1_sln\\lab7_task1_pro\\ef\\tables\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B67E01E7-7F4C-0A1E-1EBF-A644FD2B8EB2}|Lab7_Task1_Pro\\Lab7_Task1_Pro.csproj|solutionrelative:lab7_task1_pro\\ef\\tables\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B67E01E7-7F4C-0A1E-1EBF-A644FD2B8EB2}|Lab7_Task1_Pro\\Lab7_Task1_Pro.csproj|d:\\development\\dotnetcore\\lab7_task1_sln\\lab7_task1_pro\\ef\\lab7productscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B67E01E7-7F4C-0A1E-1EBF-A644FD2B8EB2}|Lab7_Task1_Pro\\Lab7_Task1_Pro.csproj|solutionrelative:lab7_task1_pro\\ef\\lab7productscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B67E01E7-7F4C-0A1E-1EBF-A644FD2B8EB2}|Lab7_Task1_Pro\\Lab7_Task1_Pro.csproj|d:\\development\\dotnetcore\\lab7_task1_sln\\lab7_task1_pro\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B67E01E7-7F4C-0A1E-1EBF-A644FD2B8EB2}|Lab7_Task1_Pro\\Lab7_Task1_Pro.csproj|solutionrelative:lab7_task1_pro\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B67E01E7-7F4C-0A1E-1EBF-A644FD2B8EB2}|Lab7_Task1_Pro\\Lab7_Task1_Pro.csproj|d:\\development\\dotnetcore\\lab7_task1_sln\\lab7_task1_pro\\views\\category\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B67E01E7-7F4C-0A1E-1EBF-A644FD2B8EB2}|Lab7_Task1_Pro\\Lab7_Task1_Pro.csproj|solutionrelative:lab7_task1_pro\\views\\category\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+>>>>>>> Stashed changes
     }
   ],
   "DocumentGroupContainers": [
@@ -22,6 +74,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
+<<<<<<< Updated upstream
           "SelectedChildIndex": 5,
           "Children": [
             {
@@ -47,10 +100,61 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2026-03-09T11:44:17.795Z"
+=======
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Development\\DotNetCore\\Lab7_Task1_Sln\\Lab7_Task1_Pro\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "Lab7_Task1_Pro\\Views\\Product\\Index.cshtml",
+              "ToolTip": "D:\\Development\\DotNetCore\\Lab7_Task1_Sln\\Lab7_Task1_Pro\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "Lab7_Task1_Pro\\Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABoAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-08T08:27:04.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "D:\\Development\\DotNetCore\\Lab7_Task1_Sln\\Lab7_Task1_Pro\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "Lab7_Task1_Pro\\Controllers\\CategoryController.cs",
+              "ToolTip": "D:\\Development\\DotNetCore\\Lab7_Task1_Sln\\Lab7_Task1_Pro\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "Lab7_Task1_Pro\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAADwvyYAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T08:28:31.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Development\\DotNetCore\\Lab7_Task1_Sln\\Lab7_Task1_Pro\\Views\\Product\\Create.cshtml",
+              "RelativeDocumentMoniker": "Lab7_Task1_Pro\\Views\\Product\\Create.cshtml",
+              "ToolTip": "D:\\Development\\DotNetCore\\Lab7_Task1_Sln\\Lab7_Task1_Pro\\Views\\Product\\Create.cshtml",
+              "RelativeToolTip": "Lab7_Task1_Pro\\Views\\Product\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-08T08:38:23.775Z",
+              "EditorCaption": ""
+>>>>>>> Stashed changes
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+<<<<<<< Updated upstream
               "Title": "Program.cs",
               "DocumentMoniker": "F:\\Development\\DotNetCore\\Lab7_Task1_Sln\\Lab7_Task1_Pro\\Program.cs",
               "RelativeDocumentMoniker": "Lab7_Task1_Pro\\Program.cs",
@@ -59,10 +163,22 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-09T11:35:05.313Z"
+=======
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\Development\\DotNetCore\\Lab7_Task1_Sln\\Lab7_Task1_Pro\\Views\\Product\\Details.cshtml",
+              "RelativeDocumentMoniker": "Lab7_Task1_Pro\\Views\\Product\\Details.cshtml",
+              "ToolTip": "D:\\Development\\DotNetCore\\Lab7_Task1_Sln\\Lab7_Task1_Pro\\Views\\Product\\Details.cshtml",
+              "RelativeToolTip": "Lab7_Task1_Pro\\Views\\Product\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-08T08:38:51.445Z",
+              "EditorCaption": ""
+>>>>>>> Stashed changes
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+<<<<<<< Updated upstream
               "Title": "HomeController.cs",
               "DocumentMoniker": "F:\\Development\\DotNetCore\\Lab7_Task1_Sln\\Lab7_Task1_Pro\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Lab7_Task1_Pro\\Controllers\\HomeController.cs",
@@ -72,6 +188,102 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-09T11:33:13.632Z",
               "EditorCaption": ""
+=======
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\Development\\DotNetCore\\Lab7_Task1_Sln\\Lab7_Task1_Pro\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Lab7_Task1_Pro\\Controllers\\ProductController.cs",
+              "ToolTip": "D:\\Development\\DotNetCore\\Lab7_Task1_Sln\\Lab7_Task1_Pro\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Lab7_Task1_Pro\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T08:22:52.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Development\\DotNetCore\\Lab7_Task1_Sln\\Lab7_Task1_Pro\\Views\\Category\\Create.cshtml",
+              "RelativeDocumentMoniker": "Lab7_Task1_Pro\\Views\\Category\\Create.cshtml",
+              "ToolTip": "D:\\Development\\DotNetCore\\Lab7_Task1_Sln\\Lab7_Task1_Pro\\Views\\Category\\Create.cshtml",
+              "RelativeToolTip": "Lab7_Task1_Pro\\Views\\Category\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-08T08:42:17.33Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Development\\DotNetCore\\Lab7_Task1_Sln\\Lab7_Task1_Pro\\Program.cs",
+              "RelativeDocumentMoniker": "Lab7_Task1_Pro\\Program.cs",
+              "ToolTip": "D:\\Development\\DotNetCore\\Lab7_Task1_Sln\\Lab7_Task1_Pro\\Program.cs",
+              "RelativeToolTip": "Lab7_Task1_Pro\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T08:50:29.097Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Development\\DotNetCore\\Lab7_Task1_Sln\\Lab7_Task1_Pro\\Views\\Category\\Index.cshtml",
+              "RelativeDocumentMoniker": "Lab7_Task1_Pro\\Views\\Category\\Index.cshtml",
+              "ToolTip": "D:\\Development\\DotNetCore\\Lab7_Task1_Sln\\Lab7_Task1_Pro\\Views\\Category\\Index.cshtml*",
+              "RelativeToolTip": "Lab7_Task1_Pro\\Views\\Category\\Index.cshtml*",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABEAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-08T08:31:11.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\Development\\DotNetCore\\Lab7_Task1_Sln\\Lab7_Task1_Pro\\EF\\Tables\\Category.cs",
+              "RelativeDocumentMoniker": "Lab7_Task1_Pro\\EF\\Tables\\Category.cs",
+              "ToolTip": "D:\\Development\\DotNetCore\\Lab7_Task1_Sln\\Lab7_Task1_Pro\\EF\\Tables\\Category.cs",
+              "RelativeToolTip": "Lab7_Task1_Pro\\EF\\Tables\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T08:16:48.775Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\Development\\DotNetCore\\Lab7_Task1_Sln\\Lab7_Task1_Pro\\Views\\Category\\Details.cshtml",
+              "RelativeDocumentMoniker": "Lab7_Task1_Pro\\Views\\Category\\Details.cshtml",
+              "ToolTip": "D:\\Development\\DotNetCore\\Lab7_Task1_Sln\\Lab7_Task1_Pro\\Views\\Category\\Details.cshtml",
+              "RelativeToolTip": "Lab7_Task1_Pro\\Views\\Category\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-08T08:43:14.041Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\Development\\DotNetCore\\Lab7_Task1_Sln\\Lab7_Task1_Pro\\EF\\Tables\\Product.cs",
+              "RelativeDocumentMoniker": "Lab7_Task1_Pro\\EF\\Tables\\Product.cs",
+              "ToolTip": "D:\\Development\\DotNetCore\\Lab7_Task1_Sln\\Lab7_Task1_Pro\\EF\\Tables\\Product.cs",
+              "RelativeToolTip": "Lab7_Task1_Pro\\EF\\Tables\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T08:16:46.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Lab7ProductsContext.cs",
+              "DocumentMoniker": "D:\\Development\\DotNetCore\\Lab7_Task1_Sln\\Lab7_Task1_Pro\\EF\\Lab7ProductsContext.cs",
+              "RelativeDocumentMoniker": "Lab7_Task1_Pro\\EF\\Lab7ProductsContext.cs",
+              "ToolTip": "D:\\Development\\DotNetCore\\Lab7_Task1_Sln\\Lab7_Task1_Pro\\EF\\Lab7ProductsContext.cs",
+              "RelativeToolTip": "Lab7_Task1_Pro\\EF\\Lab7ProductsContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T08:16:43.405Z"
+>>>>>>> Stashed changes
             }
           ]
         }

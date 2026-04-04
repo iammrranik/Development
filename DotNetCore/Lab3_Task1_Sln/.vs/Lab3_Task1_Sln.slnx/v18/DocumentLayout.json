@@ -1,22 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "F:\\Development\\DotNetCore\\Lab3_Task1_Sln\\",
+  "WorkspaceRootPath": "D:\\Development\\DotNetCore\\Lab3_Task1_Sln\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D61E25A7-8C09-901D-6F26-AA952A150F6E}|Lab3_Task1_Pro\\Lab3_Task1_Pro.csproj|f:\\development\\dotnetcore\\lab3_task1_sln\\lab3_task1_pro\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D61E25A7-8C09-901D-6F26-AA952A150F6E}|Lab3_Task1_Pro\\Lab3_Task1_Pro.csproj|solutionrelative:lab3_task1_pro\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D61E25A7-8C09-901D-6F26-AA952A150F6E}|Lab3_Task1_Pro\\Lab3_Task1_Pro.csproj|f:\\development\\dotnetcore\\lab3_task1_sln\\lab3_task1_pro\\views\\student\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D61E25A7-8C09-901D-6F26-AA952A150F6E}|Lab3_Task1_Pro\\Lab3_Task1_Pro.csproj|solutionrelative:lab3_task1_pro\\views\\student\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D61E25A7-8C09-901D-6F26-AA952A150F6E}|Lab3_Task1_Pro\\Lab3_Task1_Pro.csproj|f:\\development\\dotnetcore\\lab3_task1_sln\\lab3_task1_pro\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D61E25A7-8C09-901D-6F26-AA952A150F6E}|Lab3_Task1_Pro\\Lab3_Task1_Pro.csproj|d:\\development\\dotnetcore\\lab3_task1_sln\\lab3_task1_pro\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D61E25A7-8C09-901D-6F26-AA952A150F6E}|Lab3_Task1_Pro\\Lab3_Task1_Pro.csproj|solutionrelative:lab3_task1_pro\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D61E25A7-8C09-901D-6F26-AA952A150F6E}|Lab3_Task1_Pro\\Lab3_Task1_Pro.csproj|f:\\development\\dotnetcore\\lab3_task1_sln\\lab3_task1_pro\\models\\studentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D61E25A7-8C09-901D-6F26-AA952A150F6E}|Lab3_Task1_Pro\\Lab3_Task1_Pro.csproj|d:\\development\\dotnetcore\\lab3_task1_sln\\lab3_task1_pro\\models\\studentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D61E25A7-8C09-901D-6F26-AA952A150F6E}|Lab3_Task1_Pro\\Lab3_Task1_Pro.csproj|solutionrelative:lab3_task1_pro\\models\\studentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D61E25A7-8C09-901D-6F26-AA952A150F6E}|Lab3_Task1_Pro\\Lab3_Task1_Pro.csproj|d:\\development\\dotnetcore\\lab3_task1_sln\\lab3_task1_pro\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D61E25A7-8C09-901D-6F26-AA952A150F6E}|Lab3_Task1_Pro\\Lab3_Task1_Pro.csproj|solutionrelative:lab3_task1_pro\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D61E25A7-8C09-901D-6F26-AA952A150F6E}|Lab3_Task1_Pro\\Lab3_Task1_Pro.csproj|d:\\development\\dotnetcore\\lab3_task1_sln\\lab3_task1_pro\\views\\student\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D61E25A7-8C09-901D-6F26-AA952A150F6E}|Lab3_Task1_Pro\\Lab3_Task1_Pro.csproj|solutionrelative:lab3_task1_pro\\views\\student\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,36 +30,31 @@
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
-            },
-            {
-              "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Profile.cshtml",
-              "DocumentMoniker": "F:\\Development\\DotNetCore\\Lab3_Task1_Sln\\Lab3_Task1_Pro\\Views\\Student\\Profile.cshtml",
-              "RelativeDocumentMoniker": "Lab3_Task1_Pro\\Views\\Student\\Profile.cshtml",
-              "ToolTip": "F:\\Development\\DotNetCore\\Lab3_Task1_Sln\\Lab3_Task1_Pro\\Views\\Student\\Profile.cshtml",
-              "RelativeToolTip": "Lab3_Task1_Pro\\Views\\Student\\Profile.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-02-15T10:13:56.002Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
+              "Title": "Profile.cshtml",
+              "DocumentMoniker": "D:\\Development\\DotNetCore\\Lab3_Task1_Sln\\Lab3_Task1_Pro\\Views\\Student\\Profile.cshtml",
+              "RelativeDocumentMoniker": "Lab3_Task1_Pro\\Views\\Student\\Profile.cshtml",
+              "ToolTip": "D:\\Development\\DotNetCore\\Lab3_Task1_Sln\\Lab3_Task1_Pro\\Views\\Student\\Profile.cshtml",
+              "RelativeToolTip": "Lab3_Task1_Pro\\Views\\Student\\Profile.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-15T10:13:56.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "F:\\Development\\DotNetCore\\Lab3_Task1_Sln\\Lab3_Task1_Pro\\Views\\Student\\Index.cshtml",
+              "DocumentMoniker": "D:\\Development\\DotNetCore\\Lab3_Task1_Sln\\Lab3_Task1_Pro\\Views\\Student\\Index.cshtml",
               "RelativeDocumentMoniker": "Lab3_Task1_Pro\\Views\\Student\\Index.cshtml",
-              "ToolTip": "F:\\Development\\DotNetCore\\Lab3_Task1_Sln\\Lab3_Task1_Pro\\Views\\Student\\Index.cshtml",
+              "ToolTip": "D:\\Development\\DotNetCore\\Lab3_Task1_Sln\\Lab3_Task1_Pro\\Views\\Student\\Index.cshtml",
               "RelativeToolTip": "Lab3_Task1_Pro\\Views\\Student\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -68,28 +63,29 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "StudentController.cs",
-              "DocumentMoniker": "F:\\Development\\DotNetCore\\Lab3_Task1_Sln\\Lab3_Task1_Pro\\Controllers\\StudentController.cs",
+              "DocumentMoniker": "D:\\Development\\DotNetCore\\Lab3_Task1_Sln\\Lab3_Task1_Pro\\Controllers\\StudentController.cs",
               "RelativeDocumentMoniker": "Lab3_Task1_Pro\\Controllers\\StudentController.cs",
-              "ToolTip": "F:\\Development\\DotNetCore\\Lab3_Task1_Sln\\Lab3_Task1_Pro\\Controllers\\StudentController.cs",
+              "ToolTip": "D:\\Development\\DotNetCore\\Lab3_Task1_Sln\\Lab3_Task1_Pro\\Controllers\\StudentController.cs",
               "RelativeToolTip": "Lab3_Task1_Pro\\Controllers\\StudentController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwAoAAABDAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-15T09:29:58.413Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "StudentModel.cs",
-              "DocumentMoniker": "F:\\Development\\DotNetCore\\Lab3_Task1_Sln\\Lab3_Task1_Pro\\Models\\StudentModel.cs",
+              "DocumentMoniker": "D:\\Development\\DotNetCore\\Lab3_Task1_Sln\\Lab3_Task1_Pro\\Models\\StudentModel.cs",
               "RelativeDocumentMoniker": "Lab3_Task1_Pro\\Models\\StudentModel.cs",
-              "ToolTip": "F:\\Development\\DotNetCore\\Lab3_Task1_Sln\\Lab3_Task1_Pro\\Models\\StudentModel.cs",
+              "ToolTip": "D:\\Development\\DotNetCore\\Lab3_Task1_Sln\\Lab3_Task1_Pro\\Models\\StudentModel.cs",
               "RelativeToolTip": "Lab3_Task1_Pro\\Models\\StudentModel.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAAAA0AAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-15T09:25:32.665Z"
+              "WhenOpened": "2026-02-15T09:25:32.665Z",
+              "EditorCaption": ""
             }
           ]
         }

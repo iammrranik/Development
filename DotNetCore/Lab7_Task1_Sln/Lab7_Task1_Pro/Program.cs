@@ -1,5 +1,16 @@
+<<<<<<< Updated upstream
 var builder = WebApplication.CreateBuilder(args);
 
+=======
+using Lab7_Task1_Pro.EF;
+using Microsoft.EntityFrameworkCore;
+
+var builder = WebApplication.CreateBuilder(args);
+
+builder.Services.AddDbContext<Lab7ProductsContext>(options =>
+options.UseSqlServer(builder.Configuration.GetConnectionString("Lab7ProductsContext")));
+
+>>>>>>> Stashed changes
 // Add services to the container.
 builder.Services.AddControllersWithViews();
 

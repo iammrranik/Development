@@ -1,0 +1,19 @@
+﻿
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Create</h1>
+<form method="post">
+    <input type="text" name="Name" placeholder="Name" class="form-control" />
+    <input type="text" name="Price" placeholder="Price" class="form-control" />
+    <input type="text" name="Category" placeholder="Category" class="form-control" />
+    <select name="CategoryId" class="form-control">
+        <option selected disabled>Select an option</option>
+        @* @foreach (var item in ViewBag.Categories)
+        {
+            <option value="@item.Id">@item.Name</option>
+        } *@
+    </select>
+    <input type="submit" value="Create" class="btn btn-primary" />
+</form>

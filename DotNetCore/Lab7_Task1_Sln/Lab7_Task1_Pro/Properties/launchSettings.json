@@ -5,7 +5,11 @@
       "commandName": "Project",
       "dotnetRunMessages": true,
       "launchBrowser": true,
+<<<<<<< Updated upstream
       "applicationUrl": "http://localhost:5052",
+=======
+      "applicationUrl": "http://localhost:5064",
+>>>>>>> Stashed changes
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
@@ -14,7 +18,11 @@
       "commandName": "Project",
       "dotnetRunMessages": true,
       "launchBrowser": true,
+<<<<<<< Updated upstream
       "applicationUrl": "https://localhost:7053;http://localhost:5052",
+=======
+      "applicationUrl": "https://localhost:7038;http://localhost:5064",
+>>>>>>> Stashed changes
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
       }

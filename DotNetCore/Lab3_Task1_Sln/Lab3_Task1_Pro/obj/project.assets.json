@@ -8,23 +8,23 @@
     "net10.0": []
   },
   "packageFolders": {
-    "C:\\Users\\unknown\\.nuget\\packages\\": {},
+    "C:\\Users\\madma\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\Development\\DotNetCore\\Lab3_Task1_Sln\\Lab3_Task1_Pro\\Lab3_Task1_Pro.csproj",
+      "projectUniqueName": "D:\\Development\\DotNetCore\\Lab3_Task1_Sln\\Lab3_Task1_Pro\\Lab3_Task1_Pro.csproj",
       "projectName": "Lab3_Task1_Pro",
-      "projectPath": "F:\\Development\\DotNetCore\\Lab3_Task1_Sln\\Lab3_Task1_Pro\\Lab3_Task1_Pro.csproj",
-      "packagesPath": "C:\\Users\\unknown\\.nuget\\packages\\",
-      "outputPath": "F:\\Development\\DotNetCore\\Lab3_Task1_Sln\\Lab3_Task1_Pro\\obj\\",
+      "projectPath": "D:\\Development\\DotNetCore\\Lab3_Task1_Sln\\Lab3_Task1_Pro\\Lab3_Task1_Pro.csproj",
+      "packagesPath": "C:\\Users\\madma\\.nuget\\packages\\",
+      "outputPath": "D:\\Development\\DotNetCore\\Lab3_Task1_Sln\\Lab3_Task1_Pro\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\unknown\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\madma\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
