@@ -12,6 +12,7 @@ namespace FormCProcessing.Controllers
         }
         [HttpGet]
         public IActionResult Login() {
+            
             return View();
         }
         [HttpPost]
@@ -23,15 +24,16 @@ namespace FormCProcessing.Controllers
         }
         [HttpGet]
         public IActionResult Registration() {
-            return View();
+            return View(new RegistrationModel());
         }
         [HttpPost]
+        [ValidateAntiForgeryToken]
         public IActionResult Registration(RegistrationModel obj) {
             if (ModelState.IsValid) {
                 TempData["Msg"] = "Regisrtation Successful";
                 return RedirectToAction("Login");
             }
-            return View();
+            return View(obj);
         }
         //[HttpPost]
         //public IActionResult Login(string Uname, string Pass) {

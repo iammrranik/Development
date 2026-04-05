@@ -1,28 +1,67 @@
-﻿@Html.ValidationSummary()
+﻿@model FormCProcessing.Models.RegistrationModel
+
+@{
+    bool CheckGender(string gn)
+    {
+
+        if (Model.Gender != null && Model.Gender.Equals(gn))
+        {
+
+            return true;
+        }
+        return false;
+    }
+    bool CheckDept(string dp)
+    {
+
+        if (Model.Department != null && Model.Department.Equals(dp))
+        {
+
+            return true;
+        }
+        return false;
+    }
+    bool CheckHobbies(string hb)
+    {
+        if (Model.Hobbies != null)
+        {
+            foreach (var item in Model.Hobbies)
+            {
+                if (item.Equals(hb)) return true;
+            }    
+
+        }
+        return false;
+    }
+}
+@Html.ValidationSummary()
+
 <form action="" method="post">
-    <input type="text" name="Name" placeholder="Name" class="form-control" />
+    @Html.AntiForgeryToken()
+    <input type="text" name="Name" value="@Model.Name" placeholder="Name" class="form-control" />
     <span class="text-danger">@Html.ValidationMessage("Name")</span>
-    <input type="text" name="Email" placeholder="Email" class="form-control" />
+    <input type="text" name="Email" value="@Model.Email" placeholder="Email" class="form-control" />
     <span class="text-danger">@Html.ValidationMessage("Email")</span>
     <br />
     Gender:
-    <input type="radio" name="Gender" value="Male" />Male
-    <input type="radio" name="Gender" value="Female" />Female
+    <input type="radio" name="Gender" checked="@CheckGender("Male")" value="Male" />Male
+    <input type="radio" name="Gender" checked="@CheckGender("Female")" value="Female" />Female
     <br />
     <span class="text-danger">@Html.ValidationMessage("Gender")</span>
     <br />
     Department:
     <select name="Department">
         <option disabled selected>--Select Department--</option>
-        <option>CS</option>
-        <option>EEE</option>
-        <option>BBA</option>
+        <option selected="@CheckDept("CS")">CS</option>
+        <option selected="@CheckDept("EEE")">EEE</option>
+        <option selected="@CheckDept("BBA")">BBA</option>
     </select>
     <br />
     Hobbies:
-    <input type="checkbox" name="Hobbies[]" value="Cricket" /> Cricket
-    <input type="checkbox" name="Hobbies[]" value="Football" /> Football
+    <input type="checkbox" checked="@CheckHobbies("Cricket")" name="Hobbies[]" value="Cricket" /> Cricket
+    <input type="checkbox" checked="@CheckHobbies("Football")"  name="Hobbies[]" value="Football" /> Football
+    <input type="checkbox" checked="@CheckHobbies("Games")"  name="Hobbies[]" value="Games" /> Games
     <br />
-    <input type="text" name="Roll" placeholder="Roll" class="form-control" />
+    <input type="text" name="Roll" value="@Model.Roll" placeholder="Roll" class="form-control" />
     <input type="submit" value="Registration" class="btn btn-danger" />
 </form>

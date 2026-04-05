@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FormCProcessing")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3f4082ce242577070f18705bf900d550228684c8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+773a11a9aff815ac86898d2dac2a9a1c48618ded")]
 [assembly: System.Reflection.AssemblyProductAttribute("FormCProcessing")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FormCProcessing")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

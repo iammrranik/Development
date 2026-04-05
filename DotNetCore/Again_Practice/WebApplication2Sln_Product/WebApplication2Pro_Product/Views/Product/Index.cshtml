@@ -1,0 +1,44 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+
+<html>
+    <head>
+        <h1>Index Page for Product List Table</h1>
+    </head>
+    <body>
+        <table class="table table-bordered">
+            <thead class="table-primary">
+                <tr>
+                    <th>Id</th>
+                    <th>Name</th>
+                    <th>Price</th>
+                    <th>Category</th>
+                    <th>Details</th>
+                </tr>
+            </thead>
+            <tbody class="table-secondary">
+                @foreach(var product in Model)
+                {
+                    <tr>
+                        <td>@product.Id</td>
+                        <td>@product.Name</td>
+                        <td>@product.Price.ToString("F2")</td>
+                        <td>@product.Category</td>
+                        @if(product.Price > 1000){
+                            <td>
+                                <a class="btn btn-primary" href="/product/details/@product.Id" target="_blank">Premium Product Details @product.Id</a>
+                            </td>
+                        }else{
+                            <td>
+                                <a class="btn btn-primary" href="/product/details/@product.Id" target="_blank">Details @product.Id</a>
+                            </td>
+                        }
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </body>
+</html>

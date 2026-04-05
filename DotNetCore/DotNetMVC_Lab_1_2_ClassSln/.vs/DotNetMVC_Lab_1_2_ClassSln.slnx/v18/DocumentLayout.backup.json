@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "F:\\Development\\DotNetCore\\DotNetMVC_Lab_1_2_ClassSln\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EDCF8084-785D-6784-993E-EAA9E89EDE37}|DotNetMVC1Pro\\DotNetMVC_Lab_1_2_ClassPro.csproj|f:\\development\\dotnetcore\\dotnetmvc_lab_1_2_classsln\\dotnetmvc1pro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EDCF8084-785D-6784-993E-EAA9E89EDE37}|DotNetMVC1Pro\\DotNetMVC_Lab_1_2_ClassPro.csproj|solutionrelative:dotnetmvc1pro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EDCF8084-785D-6784-993E-EAA9E89EDE37}|DotNetMVC1Pro\\DotNetMVC_Lab_1_2_ClassPro.csproj|f:\\development\\dotnetcore\\dotnetmvc_lab_1_2_classsln\\dotnetmvc1pro\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EDCF8084-785D-6784-993E-EAA9E89EDE37}|DotNetMVC1Pro\\DotNetMVC_Lab_1_2_ClassPro.csproj|solutionrelative:dotnetmvc1pro\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EDCF8084-785D-6784-993E-EAA9E89EDE37}|DotNetMVC1Pro\\DotNetMVC_Lab_1_2_ClassPro.csproj|f:\\development\\dotnetcore\\dotnetmvc_lab_1_2_classsln\\dotnetmvc1pro\\views\\student\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -15,20 +15,20 @@
       "RelativeMoniker": "D:0:0:{EDCF8084-785D-6784-993E-EAA9E89EDE37}|DotNetMVC1Pro\\DotNetMVC_Lab_1_2_ClassPro.csproj|solutionrelative:dotnetmvc1pro\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{EDCF8084-785D-6784-993E-EAA9E89EDE37}|DotNetMVC1Pro\\DotNetMVC_Lab_1_2_ClassPro.csproj|f:\\development\\dotnetcore\\dotnetmvc_lab_1_2_classsln\\dotnetmvc1pro\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDCF8084-785D-6784-993E-EAA9E89EDE37}|DotNetMVC1Pro\\DotNetMVC_Lab_1_2_ClassPro.csproj|solutionrelative:dotnetmvc1pro\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDCF8084-785D-6784-993E-EAA9E89EDE37}|DotNetMVC1Pro\\DotNetMVC_Lab_1_2_ClassPro.csproj|f:\\development\\dotnetcore\\dotnetmvc_lab_1_2_classsln\\dotnetmvc1pro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDCF8084-785D-6784-993E-EAA9E89EDE37}|DotNetMVC1Pro\\DotNetMVC_Lab_1_2_ClassPro.csproj|solutionrelative:dotnetmvc1pro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{EDCF8084-785D-6784-993E-EAA9E89EDE37}|DotNetMVC1Pro\\DotNetMVC_Lab_1_2_ClassPro.csproj|f:\\development\\dotnetcore\\dotnetmvc_lab_1_2_classsln\\dotnetmvc1pro\\views\\shared\\_mylayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{EDCF8084-785D-6784-993E-EAA9E89EDE37}|DotNetMVC1Pro\\DotNetMVC_Lab_1_2_ClassPro.csproj|solutionrelative:dotnetmvc1pro\\views\\shared\\_mylayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EDCF8084-785D-6784-993E-EAA9E89EDE37}|DotNetMVC1Pro\\DotNetMVC_Lab_1_2_ClassPro.csproj|f:\\development\\dotnetcore\\dotnetmvc_lab_1_2_classsln\\dotnetmvc1pro\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{EDCF8084-785D-6784-993E-EAA9E89EDE37}|DotNetMVC1Pro\\DotNetMVC_Lab_1_2_ClassPro.csproj|solutionrelative:dotnetmvc1pro\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EDCF8084-785D-6784-993E-EAA9E89EDE37}|DotNetMVC1Pro\\DotNetMVC_Lab_1_2_ClassPro.csproj|f:\\development\\dotnetcore\\dotnetmvc_lab_1_2_classsln\\dotnetmvc1pro\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{EDCF8084-785D-6784-993E-EAA9E89EDE37}|DotNetMVC1Pro\\DotNetMVC_Lab_1_2_ClassPro.csproj|solutionrelative:dotnetmvc1pro\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EDCF8084-785D-6784-993E-EAA9E89EDE37}|DotNetMVC1Pro\\DotNetMVC_Lab_1_2_ClassPro.csproj|f:\\development\\dotnetcore\\dotnetmvc_lab_1_2_classsln\\dotnetmvc1pro\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EDCF8084-785D-6784-993E-EAA9E89EDE37}|DotNetMVC1Pro\\DotNetMVC_Lab_1_2_ClassPro.csproj|solutionrelative:dotnetmvc1pro\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EDCF8084-785D-6784-993E-EAA9E89EDE37}|DotNetMVC1Pro\\DotNetMVC_Lab_1_2_ClassPro.csproj|f:\\development\\dotnetcore\\dotnetmvc_lab_1_2_classsln\\dotnetmvc1pro\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -42,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -58,19 +58,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "_MyLayout.cshtml",
-              "DocumentMoniker": "F:\\Development\\DotNetCore\\DotNetMVC_Lab_1_2_ClassSln\\DotNetMVC1Pro\\Views\\Shared\\_MyLayout.cshtml",
-              "RelativeDocumentMoniker": "DotNetMVC1Pro\\Views\\Shared\\_MyLayout.cshtml",
-              "ToolTip": "F:\\Development\\DotNetCore\\DotNetMVC_Lab_1_2_ClassSln\\DotNetMVC1Pro\\Views\\Shared\\_MyLayout.cshtml",
-              "RelativeToolTip": "DotNetMVC1Pro\\Views\\Shared\\_MyLayout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-02-15T00:00:26.551Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "F:\\Development\\DotNetCore\\DotNetMVC_Lab_1_2_ClassSln\\DotNetMVC1Pro\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "DotNetMVC1Pro\\Views\\_ViewStart.cshtml",
@@ -82,15 +70,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "F:\\Development\\DotNetCore\\DotNetMVC_Lab_1_2_ClassSln\\DotNetMVC1Pro\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "DotNetMVC1Pro\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "F:\\Development\\DotNetCore\\DotNetMVC_Lab_1_2_ClassSln\\DotNetMVC1Pro\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "DotNetMVC1Pro\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAYAAAAAAAAAAIBJwCMAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACMAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-02-14T23:54:45.216Z"
+              "WhenOpened": "2026-02-14T23:54:45.216Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -120,7 +109,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 3,
               "Title": "Student.cs",
               "DocumentMoniker": "F:\\Development\\DotNetCore\\DotNetMVC_Lab_1_2_ClassSln\\DotNetMVC1Pro\\Models\\Student.cs",
               "RelativeDocumentMoniker": "DotNetMVC1Pro\\Models\\Student.cs",
@@ -128,7 +117,33 @@
               "RelativeToolTip": "DotNetMVC1Pro\\Models\\Student.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-14T23:11:33.841Z"
+              "WhenOpened": "2026-02-14T23:11:33.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\Development\\DotNetCore\\DotNetMVC_Lab_1_2_ClassSln\\DotNetMVC1Pro\\Program.cs",
+              "RelativeDocumentMoniker": "DotNetMVC1Pro\\Program.cs",
+              "ToolTip": "F:\\Development\\DotNetCore\\DotNetMVC_Lab_1_2_ClassSln\\DotNetMVC1Pro\\Program.cs",
+              "RelativeToolTip": "DotNetMVC1Pro\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-08T09:46:04.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_MyLayout.cshtml",
+              "DocumentMoniker": "F:\\Development\\DotNetCore\\DotNetMVC_Lab_1_2_ClassSln\\DotNetMVC1Pro\\Views\\Shared\\_MyLayout.cshtml",
+              "RelativeDocumentMoniker": "DotNetMVC1Pro\\Views\\Shared\\_MyLayout.cshtml",
+              "ToolTip": "F:\\Development\\DotNetCore\\DotNetMVC_Lab_1_2_ClassSln\\DotNetMVC1Pro\\Views\\Shared\\_MyLayout.cshtml",
+              "RelativeToolTip": "DotNetMVC1Pro\\Views\\Shared\\_MyLayout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-15T00:00:26.551Z"
             },
             {
               "$type": "Document",
@@ -141,19 +156,6 @@
               "ViewState": "AgIAAAMAAAAAAAAAAAAYwCEAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-14T23:11:11.269Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "F:\\Development\\DotNetCore\\DotNetMVC_Lab_1_2_ClassSln\\DotNetMVC1Pro\\Program.cs",
-              "RelativeDocumentMoniker": "DotNetMVC1Pro\\Program.cs",
-              "ToolTip": "F:\\Development\\DotNetCore\\DotNetMVC_Lab_1_2_ClassSln\\DotNetMVC1Pro\\Program.cs",
-              "RelativeToolTip": "DotNetMVC1Pro\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-08T09:46:04.175Z",
-              "EditorCaption": ""
             }
           ]
         }

@@ -1,0 +1,38 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    // Layout = null;
+}
+
+@section Scripts {
+    <script>alert(Loaded!)</script>
+}
+
+<html>
+    <head>
+        <title>Details Page for Student List Table</title>
+    </head>
+    <body>
+        <h1>Details Page for Student List Table</h1>
+        <table class="table table-bordered">
+            <thead class="table-primary">
+                <tr>
+                    <th>Id</th>
+                    <th>Name</th>
+                    <th>Price</th>
+                    <th>Category</th>
+                </tr>
+            </thead>
+            <tbody class="table-secondary">
+                    <tr>
+                        <td>@Model.Id</td>
+                        <td>@Model.Name</td>
+                        <td>@Model.Price.ToString("F2")</td>
+                        <td>@Model.Category</td>
+                        @* @RenderSection("Scripts", required: false) *@
+                    </tr>
+            </tbody>
+        </table>
+    </body>
+</html>

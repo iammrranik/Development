@@ -5265,23 +5265,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\unknown\\.nuget\\packages\\": {},
+    "C:\\Users\\Tanvir Ahmed\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\university\\Semester 8\\ADVANCED PROGRAMMING WITH .NET\\doc\\.NetSp26_B\\FormCProcessing\\FormCProcessing\\FormCProcessing.csproj",
+      "projectUniqueName": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\B\\FormCProcessing\\FormCProcessing\\FormCProcessing.csproj",
       "projectName": "FormCProcessing",
-      "projectPath": "E:\\university\\Semester 8\\ADVANCED PROGRAMMING WITH .NET\\doc\\.NetSp26_B\\FormCProcessing\\FormCProcessing\\FormCProcessing.csproj",
-      "packagesPath": "C:\\Users\\unknown\\.nuget\\packages\\",
-      "outputPath": "E:\\university\\Semester 8\\ADVANCED PROGRAMMING WITH .NET\\doc\\.NetSp26_B\\FormCProcessing\\FormCProcessing\\obj\\",
+      "projectPath": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\B\\FormCProcessing\\FormCProcessing\\FormCProcessing.csproj",
+      "packagesPath": "C:\\Users\\Tanvir Ahmed\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\B\\FormCProcessing\\FormCProcessing\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\unknown\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Tanvir Ahmed\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -5338,7 +5338,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.103/PortableRuntimeIdentifierGraph.json",
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.101/PortableRuntimeIdentifierGraph.json",
         "packagesToPrune": {
           "Microsoft.AspNetCore": "(,10.0.32767]",
           "Microsoft.AspNetCore.Antiforgery": "(,10.0.32767]",

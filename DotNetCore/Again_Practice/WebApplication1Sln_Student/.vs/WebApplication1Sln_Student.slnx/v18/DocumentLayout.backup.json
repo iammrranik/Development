@@ -7,12 +7,20 @@
       "RelativeMoniker": "D:0:0:{743C72A8-75C4-594B-03DB-425448EECC63}|WebApplication1Pro_Student\\WebApplication1Pro_Student.csproj|solutionrelative:webapplication1pro_student\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{743C72A8-75C4-594B-03DB-425448EECC63}|WebApplication1Pro_Student\\WebApplication1Pro_Student.csproj|f:\\development\\dotnetcore\\again_practice\\webapplication1sln_student\\webapplication1pro_student\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{743C72A8-75C4-594B-03DB-425448EECC63}|WebApplication1Pro_Student\\WebApplication1Pro_Student.csproj|solutionrelative:webapplication1pro_student\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{743C72A8-75C4-594B-03DB-425448EECC63}|WebApplication1Pro_Student\\WebApplication1Pro_Student.csproj|f:\\development\\dotnetcore\\again_practice\\webapplication1sln_student\\webapplication1pro_student\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{743C72A8-75C4-594B-03DB-425448EECC63}|WebApplication1Pro_Student\\WebApplication1Pro_Student.csproj|solutionrelative:webapplication1pro_student\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{743C72A8-75C4-594B-03DB-425448EECC63}|WebApplication1Pro_Student\\WebApplication1Pro_Student.csproj|f:\\development\\dotnetcore\\again_practice\\webapplication1sln_student\\webapplication1pro_student\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{743C72A8-75C4-594B-03DB-425448EECC63}|WebApplication1Pro_Student\\WebApplication1Pro_Student.csproj|solutionrelative:webapplication1pro_student\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{743C72A8-75C4-594B-03DB-425448EECC63}|WebApplication1Pro_Student\\WebApplication1Pro_Student.csproj|f:\\development\\dotnetcore\\again_practice\\webapplication1sln_student\\webapplication1pro_student\\views\\student\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{743C72A8-75C4-594B-03DB-425448EECC63}|WebApplication1Pro_Student\\WebApplication1Pro_Student.csproj|solutionrelative:webapplication1pro_student\\views\\student\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{743C72A8-75C4-594B-03DB-425448EECC63}|WebApplication1Pro_Student\\WebApplication1Pro_Student.csproj|f:\\development\\dotnetcore\\again_practice\\webapplication1sln_student\\webapplication1pro_student\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{743C72A8-75C4-594B-03DB-425448EECC63}|WebApplication1Pro_Student\\WebApplication1Pro_Student.csproj|solutionrelative:webapplication1pro_student\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{743C72A8-75C4-594B-03DB-425448EECC63}|WebApplication1Pro_Student\\WebApplication1Pro_Student.csproj|f:\\development\\dotnetcore\\again_practice\\webapplication1sln_student\\webapplication1pro_student\\models\\studentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{743C72A8-75C4-594B-03DB-425448EECC63}|WebApplication1Pro_Student\\WebApplication1Pro_Student.csproj|solutionrelative:webapplication1pro_student\\models\\studentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -39,15 +47,51 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "F:\\Development\\DotNetCore\\Again_Practice\\WebApplication1Sln_Student\\WebApplication1Pro_Student\\appsettings.json",
-              "RelativeDocumentMoniker": "WebApplication1Pro_Student\\appsettings.json",
-              "ToolTip": "F:\\Development\\DotNetCore\\Again_Practice\\WebApplication1Sln_Student\\WebApplication1Pro_Student\\appsettings.json",
-              "RelativeToolTip": "WebApplication1Pro_Student\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-04-04T09:47:19.774Z",
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "F:\\Development\\DotNetCore\\Again_Practice\\WebApplication1Sln_Student\\WebApplication1Pro_Student\\Views\\Student\\Details.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1Pro_Student\\Views\\Student\\Details.cshtml",
+              "ToolTip": "F:\\Development\\DotNetCore\\Again_Practice\\WebApplication1Sln_Student\\WebApplication1Pro_Student\\Views\\Student\\Details.cshtml",
+              "RelativeToolTip": "WebApplication1Pro_Student\\Views\\Student\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-04T16:31:18.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "F:\\Development\\DotNetCore\\Again_Practice\\WebApplication1Sln_Student\\WebApplication1Pro_Student\\Views\\Student\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1Pro_Student\\Views\\Student\\Index.cshtml",
+              "ToolTip": "F:\\Development\\DotNetCore\\Again_Practice\\WebApplication1Sln_Student\\WebApplication1Pro_Student\\Views\\Student\\Index.cshtml",
+              "RelativeToolTip": "WebApplication1Pro_Student\\Views\\Student\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-04T12:26:40.888Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StudentModel.cs",
+              "DocumentMoniker": "F:\\Development\\DotNetCore\\Again_Practice\\WebApplication1Sln_Student\\WebApplication1Pro_Student\\Models\\StudentModel.cs",
+              "RelativeDocumentMoniker": "WebApplication1Pro_Student\\Models\\StudentModel.cs",
+              "ToolTip": "F:\\Development\\DotNetCore\\Again_Practice\\WebApplication1Sln_Student\\WebApplication1Pro_Student\\Models\\StudentModel.cs",
+              "RelativeToolTip": "WebApplication1Pro_Student\\Models\\StudentModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-04T10:00:42.736Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "F:\\Development\\DotNetCore\\Again_Practice\\WebApplication1Sln_Student\\WebApplication1Pro_Student\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "WebApplication1Pro_Student\\Controllers\\StudentController.cs",
+              "ToolTip": "F:\\Development\\DotNetCore\\Again_Practice\\WebApplication1Sln_Student\\WebApplication1Pro_Student\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "WebApplication1Pro_Student\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAgwDgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-04T10:36:41.294Z"
             },
             {
               "$type": "Document",
@@ -57,22 +101,9 @@
               "RelativeDocumentMoniker": "WebApplication1Pro_Student\\Program.cs",
               "ToolTip": "F:\\Development\\DotNetCore\\Again_Practice\\WebApplication1Sln_Student\\WebApplication1Pro_Student\\Program.cs",
               "RelativeToolTip": "WebApplication1Pro_Student\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAvAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-04T05:35:44.297Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "F:\\Development\\DotNetCore\\Again_Practice\\WebApplication1Sln_Student\\WebApplication1Pro_Student\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "WebApplication1Pro_Student\\Controllers\\HomeController.cs",
-              "ToolTip": "F:\\Development\\DotNetCore\\Again_Practice\\WebApplication1Sln_Student\\WebApplication1Pro_Student\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "WebApplication1Pro_Student\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-04T04:49:23.129Z",
               "EditorCaption": ""
             }
           ]
