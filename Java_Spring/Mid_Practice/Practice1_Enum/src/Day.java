@@ -1,11 +1,11 @@
 public enum Day{
     SUNDAY ("WEEKDAY"),
     MONDAY ("WEEKDAY"),
-    TUESDAY ("WEEK DAY"),
-    WEDNESDAY ("WEEK DAY"),
-    THURSDAY ("WEEK DAY"),
-    FRIDAY ("WEEK END"),
-    SATURDAY ("WEEK END"),
+    TUESDAY ("WEEKDAY"),
+    WEDNESDAY ("WEEKDAY"),
+    THURSDAY ("WEEKDAY"),
+    FRIDAY ("WEEKEND"),
+    SATURDAY ("WEEKEND"),
     OFFDAY;
 
     private String param;

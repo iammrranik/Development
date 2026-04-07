@@ -58,7 +58,6 @@ public abstract class Employee {
 
     public abstract int getMaxSick();
 
-
     public int calculateLeave(int leaves) {
         int year = this.getJoiningDate().getYear();
         LocalDate endOfYear = LocalDate.of(year, 12, 31);

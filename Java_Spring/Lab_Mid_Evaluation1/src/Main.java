@@ -1,7 +1,7 @@
 public class Main{
     public static void main(String[] args) {
         TicketOffice office = new TicketOffice();
-
+        int ticket=200;
         Thread portal1 = new Thread(new Portal(office), "1");
         Thread portal2 = new Thread(new Portal(office), "2");
         Thread portal3 = new Thread(new Portal(office), "3");

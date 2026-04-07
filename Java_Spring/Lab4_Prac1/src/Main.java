@@ -19,7 +19,7 @@ public class Main {
         try{
             p1.join();
             p2.join();
-        } catch (InterruptedException e) {
+        } catch (Exception e) {
             throw new RuntimeException(e);
         }
 

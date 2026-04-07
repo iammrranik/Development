@@ -3,6 +3,16 @@ public class Main{
     public static void main() {
         Print p1 = new Print();
         Print p2 = new Print();
+
+        for (int i=1; i<=5; i++){
+            System.out.println("From Main = " + i);
+            try {
+                Thread.sleep(1000);
+            } catch (InterruptedException e) {
+                throw new RuntimeException(e);
+            }
+        }
+
         p1.t.start();
         p2.t.start();
 
@@ -26,7 +36,7 @@ public class Main{
 
         public void run(){
             for (int i=6; i<=10; i++){
-                System.out.println("From Print = " + i);
+                System.out.println("From Print = " + i + " " + t.getName());
                 try{
                     Thread.sleep(1000);
                 } catch (InterruptedException e) {
