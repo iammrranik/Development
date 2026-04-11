@@ -36,8 +36,22 @@ public class Main {
     }
 
     public static void main(String[] args) {
+
+        Thread t1 = new Thread(() -> { // Used Lambda
+            for (int i = 11; i <= 15; i++) {
+                System.out.println(i);
+                try {
+                    Thread.sleep(1000);
+                } catch (InterruptedException e) {
+                    System.out.println(e.getMessage());
+                }
+            }
+        });
+
         Print p1 = new Print();
         Print p2 = new Print();
+        t1.start();
+
 
 //        p1.t.start();
 //        p2.t.start();
