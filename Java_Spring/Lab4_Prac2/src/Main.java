@@ -1,29 +1,26 @@
 public class Main{
 
+    public static void loop(){
+        for (int i=1; i<=5; i++){
+            System.out.println("From Main = " + i);
+            try {
+                Thread.sleep(1000);
+            } catch (InterruptedException e) {
+                throw new RuntimeException(e);
+            }
+        }
+    }
+
     public static void main() {
         Print p1 = new Print();
         Print p2 = new Print();
 
-        for (int i=1; i<=5; i++){
-            System.out.println("From Main = " + i);
-            try {
-                Thread.sleep(1000);
-            } catch (InterruptedException e) {
-                throw new RuntimeException(e);
-            }
-        }
+        loop();
 
         p1.t.start();
         p2.t.start();
 
-        for (int i=1; i<=5; i++){
-            System.out.println("From Main = " + i);
-            try {
-                Thread.sleep(1000);
-            } catch (InterruptedException e) {
-                throw new RuntimeException(e);
-            }
-        }
+        loop();
     }
 
     public static class Print implements Runnable{
@@ -44,6 +41,7 @@ public class Main{
                 }
             }
         }
+        
     }
 
 }

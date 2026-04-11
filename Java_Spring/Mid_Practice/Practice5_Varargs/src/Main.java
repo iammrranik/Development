@@ -1,11 +1,11 @@
 public class Main {
-    static int sum(int a, int b){ // Method 1
+    public static int sum(int a, int b){ // Method 1
         return a+b;
     }
-    static int sum(int a, int b, int c){ // Overloaded Method
+    public int sum(int a, int b, int c){ // Overloaded Method
         return a+b+c;
     }
-    static int sum(int a, int b, int c, int d){ // Overloaded Method
+    public int sum(int a, int b, int c, int d){ // Overloaded Method
         return a+b+c+d;
     }
 //    static int sum(int... arr){ // No compulsory variables
@@ -16,7 +16,7 @@ public class Main {
 //        return result;
 //    }
 
-    static int sum(int x, int... arr){ // 1 variable input is compulsory
+    public int sum(int x, int... arr){ // 1 variable input is compulsory
         int result=x;
         for(int i: arr){
             result+=i;
@@ -24,7 +24,7 @@ public class Main {
         return result;
     }
 
-    static void main(String[] args) {
+    public void main(String[] args) {
         System.out.println(sum(1)); // static int sum(int x, int... arr)
         System.out.println(sum(1,2));
         System.out.println(sum(1,2,3));
