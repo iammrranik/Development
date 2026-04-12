@@ -40,7 +40,9 @@ public class Main {
         // WRITE ONLY (? super T)
         List<Number> numberList = new ArrayList<>();
         Util.addNumbers(numberList);
-        numberList.add(100);
+
+        numberList.add(100); // Also works
+
         System.out.println(numberList);
     }
 }

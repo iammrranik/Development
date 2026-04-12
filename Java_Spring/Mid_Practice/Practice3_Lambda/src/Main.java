@@ -15,7 +15,7 @@ public class Main {
         System.out.println(res2);
 
         Function<Integer, Double> triple2 = integer -> Double.valueOf(integer * 3);
-        double res3 = triple.apply(30);
+        double res3 = triple2.apply(30);
         System.out.println(res3);
 
         Consumer<Integer> consume = x -> System.out.println(x);
