@@ -1,8 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "F:\\Development\\DotNetCore\\Again_Practice\\WebApplication6Sln_CRUD1\\",
+  "WorkspaceRootPath": "D:\\Development\\DotNetCore\\Again_Practice\\WebApplication6Sln_CRUD1\\",
   "Documents": [
     {
+<<<<<<< Updated upstream
       "AbsoluteMoniker": "D:0:0:{9D2B4D48-D38F-439C-B9F2-E90EFD4D828E}|WebApplication6Pro_CRUD1\\WebApplication6Pro_CRUD1.csproj|f:\\development\\dotnetcore\\again_practice\\webapplication6sln_crud1\\webapplication6pro_crud1\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9D2B4D48-D38F-439C-B9F2-E90EFD4D828E}|WebApplication6Pro_CRUD1\\WebApplication6Pro_CRUD1.csproj|solutionrelative:webapplication6pro_crud1\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -45,6 +46,50 @@
     {
       "AbsoluteMoniker": "D:0:0:{9D2B4D48-D38F-439C-B9F2-E90EFD4D828E}|WebApplication6Pro_CRUD1\\WebApplication6Pro_CRUD1.csproj|f:\\development\\dotnetcore\\again_practice\\webapplication6sln_crud1\\webapplication6pro_crud1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{9D2B4D48-D38F-439C-B9F2-E90EFD4D828E}|WebApplication6Pro_CRUD1\\WebApplication6Pro_CRUD1.csproj|solutionrelative:webapplication6pro_crud1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+=======
+      "AbsoluteMoniker": "D:0:0:{9D2B4D48-D38F-439C-B9F2-E90EFD4D828E}|WebApplication6Pro_CRUD1\\WebApplication6Pro_CRUD1.csproj|d:\\development\\dotnetcore\\again_practice\\webapplication6sln_crud1\\webapplication6pro_crud1\\ef\\studentinformationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D2B4D48-D38F-439C-B9F2-E90EFD4D828E}|WebApplication6Pro_CRUD1\\WebApplication6Pro_CRUD1.csproj|solutionrelative:webapplication6pro_crud1\\ef\\studentinformationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D2B4D48-D38F-439C-B9F2-E90EFD4D828E}|WebApplication6Pro_CRUD1\\WebApplication6Pro_CRUD1.csproj|d:\\development\\dotnetcore\\again_practice\\webapplication6sln_crud1\\webapplication6pro_crud1\\views\\department\\remove.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9D2B4D48-D38F-439C-B9F2-E90EFD4D828E}|WebApplication6Pro_CRUD1\\WebApplication6Pro_CRUD1.csproj|solutionrelative:webapplication6pro_crud1\\views\\department\\remove.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D2B4D48-D38F-439C-B9F2-E90EFD4D828E}|WebApplication6Pro_CRUD1\\WebApplication6Pro_CRUD1.csproj|d:\\development\\dotnetcore\\again_practice\\webapplication6sln_crud1\\webapplication6pro_crud1\\views\\department\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9D2B4D48-D38F-439C-B9F2-E90EFD4D828E}|WebApplication6Pro_CRUD1\\WebApplication6Pro_CRUD1.csproj|solutionrelative:webapplication6pro_crud1\\views\\department\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D2B4D48-D38F-439C-B9F2-E90EFD4D828E}|WebApplication6Pro_CRUD1\\WebApplication6Pro_CRUD1.csproj|d:\\development\\dotnetcore\\again_practice\\webapplication6sln_crud1\\webapplication6pro_crud1\\ef\\tables\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D2B4D48-D38F-439C-B9F2-E90EFD4D828E}|WebApplication6Pro_CRUD1\\WebApplication6Pro_CRUD1.csproj|solutionrelative:webapplication6pro_crud1\\ef\\tables\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D2B4D48-D38F-439C-B9F2-E90EFD4D828E}|WebApplication6Pro_CRUD1\\WebApplication6Pro_CRUD1.csproj|d:\\development\\dotnetcore\\again_practice\\webapplication6sln_crud1\\webapplication6pro_crud1\\views\\department\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9D2B4D48-D38F-439C-B9F2-E90EFD4D828E}|WebApplication6Pro_CRUD1\\WebApplication6Pro_CRUD1.csproj|solutionrelative:webapplication6pro_crud1\\views\\department\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D2B4D48-D38F-439C-B9F2-E90EFD4D828E}|WebApplication6Pro_CRUD1\\WebApplication6Pro_CRUD1.csproj|d:\\development\\dotnetcore\\again_practice\\webapplication6sln_crud1\\webapplication6pro_crud1\\views\\department\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9D2B4D48-D38F-439C-B9F2-E90EFD4D828E}|WebApplication6Pro_CRUD1\\WebApplication6Pro_CRUD1.csproj|solutionrelative:webapplication6pro_crud1\\views\\department\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D2B4D48-D38F-439C-B9F2-E90EFD4D828E}|WebApplication6Pro_CRUD1\\WebApplication6Pro_CRUD1.csproj|d:\\development\\dotnetcore\\again_practice\\webapplication6sln_crud1\\webapplication6pro_crud1\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D2B4D48-D38F-439C-B9F2-E90EFD4D828E}|WebApplication6Pro_CRUD1\\WebApplication6Pro_CRUD1.csproj|solutionrelative:webapplication6pro_crud1\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D2B4D48-D38F-439C-B9F2-E90EFD4D828E}|WebApplication6Pro_CRUD1\\WebApplication6Pro_CRUD1.csproj|d:\\development\\dotnetcore\\again_practice\\webapplication6sln_crud1\\webapplication6pro_crud1\\ef\\tables\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D2B4D48-D38F-439C-B9F2-E90EFD4D828E}|WebApplication6Pro_CRUD1\\WebApplication6Pro_CRUD1.csproj|solutionrelative:webapplication6pro_crud1\\ef\\tables\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D2B4D48-D38F-439C-B9F2-E90EFD4D828E}|WebApplication6Pro_CRUD1\\WebApplication6Pro_CRUD1.csproj|d:\\development\\dotnetcore\\again_practice\\webapplication6sln_crud1\\webapplication6pro_crud1\\ef\\tables\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D2B4D48-D38F-439C-B9F2-E90EFD4D828E}|WebApplication6Pro_CRUD1\\WebApplication6Pro_CRUD1.csproj|solutionrelative:webapplication6pro_crud1\\ef\\tables\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D2B4D48-D38F-439C-B9F2-E90EFD4D828E}|WebApplication6Pro_CRUD1\\WebApplication6Pro_CRUD1.csproj|d:\\development\\dotnetcore\\again_practice\\webapplication6sln_crud1\\webapplication6pro_crud1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9D2B4D48-D38F-439C-B9F2-E90EFD4D828E}|WebApplication6Pro_CRUD1\\WebApplication6Pro_CRUD1.csproj|solutionrelative:webapplication6pro_crud1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D2B4D48-D38F-439C-B9F2-E90EFD4D828E}|WebApplication6Pro_CRUD1\\WebApplication6Pro_CRUD1.csproj|d:\\development\\dotnetcore\\again_practice\\webapplication6sln_crud1\\webapplication6pro_crud1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D2B4D48-D38F-439C-B9F2-E90EFD4D828E}|WebApplication6Pro_CRUD1\\WebApplication6Pro_CRUD1.csproj|solutionrelative:webapplication6pro_crud1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+>>>>>>> Stashed changes
     }
   ],
   "DocumentGroupContainers": [
@@ -54,8 +99,16 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
+<<<<<<< Updated upstream
           "SelectedChildIndex": 6,
+=======
+          "SelectedChildIndex": 9,
+>>>>>>> Stashed changes
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
@@ -66,6 +119,7 @@
             },
             {
               "$type": "Document",
+<<<<<<< Updated upstream
               "DocumentIndex": 7,
               "Title": "Remove.cshtml",
               "DocumentMoniker": "F:\\Development\\DotNetCore\\Again_Practice\\WebApplication6Sln_CRUD1\\WebApplication6Pro_CRUD1\\Views\\Department\\Remove.cshtml",
@@ -80,96 +134,106 @@
             {
               "$type": "Document",
               "DocumentIndex": 9,
+=======
+              "DocumentIndex": 3,
+>>>>>>> Stashed changes
               "Title": "Department.cs",
-              "DocumentMoniker": "F:\\Development\\DotNetCore\\Again_Practice\\WebApplication6Sln_CRUD1\\WebApplication6Pro_CRUD1\\EF\\Tables\\Department.cs",
+              "DocumentMoniker": "D:\\Development\\DotNetCore\\Again_Practice\\WebApplication6Sln_CRUD1\\WebApplication6Pro_CRUD1\\EF\\Tables\\Department.cs",
               "RelativeDocumentMoniker": "WebApplication6Pro_CRUD1\\EF\\Tables\\Department.cs",
-              "ToolTip": "F:\\Development\\DotNetCore\\Again_Practice\\WebApplication6Sln_CRUD1\\WebApplication6Pro_CRUD1\\EF\\Tables\\Department.cs",
+              "ToolTip": "D:\\Development\\DotNetCore\\Again_Practice\\WebApplication6Sln_CRUD1\\WebApplication6Pro_CRUD1\\EF\\Tables\\Department.cs",
               "RelativeToolTip": "WebApplication6Pro_CRUD1\\EF\\Tables\\Department.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-05T06:14:55.463Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-05T06:14:55.463Z"
             },
             {
               "$type": "Document",
+<<<<<<< Updated upstream
               "DocumentIndex": 1,
+=======
+              "DocumentIndex": 4,
+>>>>>>> Stashed changes
               "Title": "Create.cshtml",
-              "DocumentMoniker": "F:\\Development\\DotNetCore\\Again_Practice\\WebApplication6Sln_CRUD1\\WebApplication6Pro_CRUD1\\Views\\Department\\Create.cshtml",
+              "DocumentMoniker": "D:\\Development\\DotNetCore\\Again_Practice\\WebApplication6Sln_CRUD1\\WebApplication6Pro_CRUD1\\Views\\Department\\Create.cshtml",
               "RelativeDocumentMoniker": "WebApplication6Pro_CRUD1\\Views\\Department\\Create.cshtml",
-              "ToolTip": "F:\\Development\\DotNetCore\\Again_Practice\\WebApplication6Sln_CRUD1\\WebApplication6Pro_CRUD1\\Views\\Department\\Create.cshtml",
+              "ToolTip": "D:\\Development\\DotNetCore\\Again_Practice\\WebApplication6Sln_CRUD1\\WebApplication6Pro_CRUD1\\Views\\Department\\Create.cshtml",
               "RelativeToolTip": "WebApplication6Pro_CRUD1\\Views\\Department\\Create.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-04-05T05:40:09.692Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-05T05:40:09.692Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "F:\\Development\\DotNetCore\\Again_Practice\\WebApplication6Sln_CRUD1\\WebApplication6Pro_CRUD1\\Views\\Department\\Index.cshtml",
+              "DocumentMoniker": "D:\\Development\\DotNetCore\\Again_Practice\\WebApplication6Sln_CRUD1\\WebApplication6Pro_CRUD1\\Views\\Department\\Index.cshtml",
               "RelativeDocumentMoniker": "WebApplication6Pro_CRUD1\\Views\\Department\\Index.cshtml",
-              "ToolTip": "F:\\Development\\DotNetCore\\Again_Practice\\WebApplication6Sln_CRUD1\\WebApplication6Pro_CRUD1\\Views\\Department\\Index.cshtml",
+              "ToolTip": "D:\\Development\\DotNetCore\\Again_Practice\\WebApplication6Sln_CRUD1\\WebApplication6Pro_CRUD1\\Views\\Department\\Index.cshtml",
               "RelativeToolTip": "WebApplication6Pro_CRUD1\\Views\\Department\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-04-05T05:27:33.694Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-05T05:27:33.694Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "DepartmentController.cs",
-              "DocumentMoniker": "F:\\Development\\DotNetCore\\Again_Practice\\WebApplication6Sln_CRUD1\\WebApplication6Pro_CRUD1\\Controllers\\DepartmentController.cs",
+              "DocumentMoniker": "D:\\Development\\DotNetCore\\Again_Practice\\WebApplication6Sln_CRUD1\\WebApplication6Pro_CRUD1\\Controllers\\DepartmentController.cs",
               "RelativeDocumentMoniker": "WebApplication6Pro_CRUD1\\Controllers\\DepartmentController.cs",
-              "ToolTip": "F:\\Development\\DotNetCore\\Again_Practice\\WebApplication6Sln_CRUD1\\WebApplication6Pro_CRUD1\\Controllers\\DepartmentController.cs",
+              "ToolTip": "D:\\Development\\DotNetCore\\Again_Practice\\WebApplication6Sln_CRUD1\\WebApplication6Pro_CRUD1\\Controllers\\DepartmentController.cs",
               "RelativeToolTip": "WebApplication6Pro_CRUD1\\Controllers\\DepartmentController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-05T05:26:39.931Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-05T05:26:39.931Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "Student.cs",
-              "DocumentMoniker": "F:\\Development\\DotNetCore\\Again_Practice\\WebApplication6Sln_CRUD1\\WebApplication6Pro_CRUD1\\EF\\Tables\\Student.cs",
+              "DocumentMoniker": "D:\\Development\\DotNetCore\\Again_Practice\\WebApplication6Sln_CRUD1\\WebApplication6Pro_CRUD1\\EF\\Tables\\Student.cs",
               "RelativeDocumentMoniker": "WebApplication6Pro_CRUD1\\EF\\Tables\\Student.cs",
-              "ToolTip": "F:\\Development\\DotNetCore\\Again_Practice\\WebApplication6Sln_CRUD1\\WebApplication6Pro_CRUD1\\EF\\Tables\\Student.cs",
+              "ToolTip": "D:\\Development\\DotNetCore\\Again_Practice\\WebApplication6Sln_CRUD1\\WebApplication6Pro_CRUD1\\EF\\Tables\\Student.cs",
               "RelativeToolTip": "WebApplication6Pro_CRUD1\\EF\\Tables\\Student.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-05T05:23:51.361Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-05T05:23:51.361Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Course.cs",
-              "DocumentMoniker": "F:\\Development\\DotNetCore\\Again_Practice\\WebApplication6Sln_CRUD1\\WebApplication6Pro_CRUD1\\EF\\Tables\\Course.cs",
+              "DocumentMoniker": "D:\\Development\\DotNetCore\\Again_Practice\\WebApplication6Sln_CRUD1\\WebApplication6Pro_CRUD1\\EF\\Tables\\Course.cs",
               "RelativeDocumentMoniker": "WebApplication6Pro_CRUD1\\EF\\Tables\\Course.cs",
-              "ToolTip": "F:\\Development\\DotNetCore\\Again_Practice\\WebApplication6Sln_CRUD1\\WebApplication6Pro_CRUD1\\EF\\Tables\\Course.cs",
+              "ToolTip": "D:\\Development\\DotNetCore\\Again_Practice\\WebApplication6Sln_CRUD1\\WebApplication6Pro_CRUD1\\EF\\Tables\\Course.cs",
               "RelativeToolTip": "WebApplication6Pro_CRUD1\\EF\\Tables\\Course.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-05T05:20:06.949Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-05T05:20:06.949Z"
             },
             {
               "$type": "Document",
+<<<<<<< Updated upstream
               "DocumentIndex": 2,
+=======
+              "DocumentIndex": 0,
+>>>>>>> Stashed changes
               "Title": "StudentInformationContext.cs",
-              "DocumentMoniker": "F:\\Development\\DotNetCore\\Again_Practice\\WebApplication6Sln_CRUD1\\WebApplication6Pro_CRUD1\\EF\\StudentInformationContext.cs",
+              "DocumentMoniker": "D:\\Development\\DotNetCore\\Again_Practice\\WebApplication6Sln_CRUD1\\WebApplication6Pro_CRUD1\\EF\\StudentInformationContext.cs",
               "RelativeDocumentMoniker": "WebApplication6Pro_CRUD1\\EF\\StudentInformationContext.cs",
-              "ToolTip": "F:\\Development\\DotNetCore\\Again_Practice\\WebApplication6Sln_CRUD1\\WebApplication6Pro_CRUD1\\EF\\StudentInformationContext.cs",
+              "ToolTip": "D:\\Development\\DotNetCore\\Again_Practice\\WebApplication6Sln_CRUD1\\WebApplication6Pro_CRUD1\\EF\\StudentInformationContext.cs",
               "RelativeToolTip": "WebApplication6Pro_CRUD1\\EF\\StudentInformationContext.cs",
+<<<<<<< Updated upstream
               "ViewState": "AgIAAAgAAAAAAAAAAAAQwA0AAABZAAAAAAAAAA==",
+=======
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+>>>>>>> Stashed changes
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-05T05:13:22.197Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+<<<<<<< Updated upstream
               "DocumentIndex": 10,
               "Title": "appsettings.json",
               "DocumentMoniker": "F:\\Development\\DotNetCore\\Again_Practice\\WebApplication6Sln_CRUD1\\WebApplication6Pro_CRUD1\\appsettings.json",
@@ -180,17 +244,53 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2026-04-05T03:20:58.563Z",
               "EditorCaption": ""
+=======
+              "DocumentIndex": 2,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\Development\\DotNetCore\\Again_Practice\\WebApplication6Sln_CRUD1\\WebApplication6Pro_CRUD1\\Views\\Department\\Details.cshtml",
+              "RelativeDocumentMoniker": "WebApplication6Pro_CRUD1\\Views\\Department\\Details.cshtml",
+              "ToolTip": "D:\\Development\\DotNetCore\\Again_Practice\\WebApplication6Sln_CRUD1\\WebApplication6Pro_CRUD1\\Views\\Department\\Details.cshtml",
+              "RelativeToolTip": "WebApplication6Pro_CRUD1\\Views\\Department\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-05T06:16:22.805Z"
+>>>>>>> Stashed changes
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
+              "Title": "Remove.cshtml",
+              "DocumentMoniker": "D:\\Development\\DotNetCore\\Again_Practice\\WebApplication6Sln_CRUD1\\WebApplication6Pro_CRUD1\\Views\\Department\\Remove.cshtml",
+              "RelativeDocumentMoniker": "WebApplication6Pro_CRUD1\\Views\\Department\\Remove.cshtml",
+              "ToolTip": "D:\\Development\\DotNetCore\\Again_Practice\\WebApplication6Sln_CRUD1\\WebApplication6Pro_CRUD1\\Views\\Department\\Remove.cshtml",
+              "RelativeToolTip": "WebApplication6Pro_CRUD1\\Views\\Department\\Remove.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-05T06:36:24.296Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Development\\DotNetCore\\Again_Practice\\WebApplication6Sln_CRUD1\\WebApplication6Pro_CRUD1\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApplication6Pro_CRUD1\\appsettings.json",
+              "ToolTip": "D:\\Development\\DotNetCore\\Again_Practice\\WebApplication6Sln_CRUD1\\WebApplication6Pro_CRUD1\\appsettings.json",
+              "RelativeToolTip": "WebApplication6Pro_CRUD1\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-05T03:20:58.563Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "Program.cs",
-              "DocumentMoniker": "F:\\Development\\DotNetCore\\Again_Practice\\WebApplication6Sln_CRUD1\\WebApplication6Pro_CRUD1\\Program.cs",
+              "DocumentMoniker": "D:\\Development\\DotNetCore\\Again_Practice\\WebApplication6Sln_CRUD1\\WebApplication6Pro_CRUD1\\Program.cs",
               "RelativeDocumentMoniker": "WebApplication6Pro_CRUD1\\Program.cs",
-              "ToolTip": "F:\\Development\\DotNetCore\\Again_Practice\\WebApplication6Sln_CRUD1\\WebApplication6Pro_CRUD1\\Program.cs",
+              "ToolTip": "D:\\Development\\DotNetCore\\Again_Practice\\WebApplication6Sln_CRUD1\\WebApplication6Pro_CRUD1\\Program.cs",
               "RelativeToolTip": "WebApplication6Pro_CRUD1\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+<<<<<<< Updated upstream
               "WhenOpened": "2026-04-05T03:20:56.389Z",
               "EditorCaption": ""
             },
@@ -206,6 +306,9 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-04-05T06:16:22.805Z",
               "EditorCaption": ""
+=======
+              "WhenOpened": "2026-04-05T03:20:56.389Z"
+>>>>>>> Stashed changes
             }
           ]
         }

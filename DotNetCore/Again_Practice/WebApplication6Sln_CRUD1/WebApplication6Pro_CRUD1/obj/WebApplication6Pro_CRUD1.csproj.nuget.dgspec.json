@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Development\\DotNetCore\\Again_Practice\\WebApplication6Sln_CRUD1\\WebApplication6Pro_CRUD1\\WebApplication6Pro_CRUD1.csproj": {}
+    "D:\\Development\\DotNetCore\\Again_Practice\\WebApplication6Sln_CRUD1\\WebApplication6Pro_CRUD1\\WebApplication6Pro_CRUD1.csproj": {}
   },
   "projects": {
-    "F:\\Development\\DotNetCore\\Again_Practice\\WebApplication6Sln_CRUD1\\WebApplication6Pro_CRUD1\\WebApplication6Pro_CRUD1.csproj": {
+    "D:\\Development\\DotNetCore\\Again_Practice\\WebApplication6Sln_CRUD1\\WebApplication6Pro_CRUD1\\WebApplication6Pro_CRUD1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Development\\DotNetCore\\Again_Practice\\WebApplication6Sln_CRUD1\\WebApplication6Pro_CRUD1\\WebApplication6Pro_CRUD1.csproj",
+        "projectUniqueName": "D:\\Development\\DotNetCore\\Again_Practice\\WebApplication6Sln_CRUD1\\WebApplication6Pro_CRUD1\\WebApplication6Pro_CRUD1.csproj",
         "projectName": "WebApplication6Pro_CRUD1",
-        "projectPath": "F:\\Development\\DotNetCore\\Again_Practice\\WebApplication6Sln_CRUD1\\WebApplication6Pro_CRUD1\\WebApplication6Pro_CRUD1.csproj",
-        "packagesPath": "C:\\Users\\unknown\\.nuget\\packages\\",
-        "outputPath": "F:\\Development\\DotNetCore\\Again_Practice\\WebApplication6Sln_CRUD1\\WebApplication6Pro_CRUD1\\obj\\",
+        "projectPath": "D:\\Development\\DotNetCore\\Again_Practice\\WebApplication6Sln_CRUD1\\WebApplication6Pro_CRUD1\\WebApplication6Pro_CRUD1.csproj",
+        "packagesPath": "C:\\Users\\madma\\.nuget\\packages\\",
+        "outputPath": "D:\\Development\\DotNetCore\\Again_Practice\\WebApplication6Sln_CRUD1\\WebApplication6Pro_CRUD1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "E:\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\unknown\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\madma\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],

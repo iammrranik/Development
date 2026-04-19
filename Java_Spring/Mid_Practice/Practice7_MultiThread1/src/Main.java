@@ -38,6 +38,7 @@ class Print extends Thread {
 
         System.out.println(Thread.currentThread().getName() + " " + Thread.currentThread().getState());
         for (int i=6; i<=10; i++){
+<<<<<<< Updated upstream
             System.out.println(this.getName() + " " + this.isAlive() + " From Thread Loop " + i);
             try{
                 Thread.sleep(1000);
@@ -45,5 +46,32 @@ class Print extends Thread {
                 System.out.println("Time error");
             }
         }
+=======
+            System.out.println("From Main "  + i);
+            try {
+                Thread.sleep(1000);
+            } catch (Exception ex){
+                System.out.println("Exception in "  + ex.getMessage());
+            }
+        }
+
+        Print t1 = new Print();
+        Print t2 = new Print();
+        Print t3 = new Print();
+
+//        t1.start();
+//        t2.start();
+//        t3.start();
+
+        for (int i=6; i<=10; i++){
+            System.out.println("From Main "  + i);
+            try {
+                Thread.sleep(1000);
+            } catch (Exception ex){
+                System.out.println("Exception in "  + ex.getMessage());
+            }
+        }
+
+>>>>>>> Stashed changes
     }
 }

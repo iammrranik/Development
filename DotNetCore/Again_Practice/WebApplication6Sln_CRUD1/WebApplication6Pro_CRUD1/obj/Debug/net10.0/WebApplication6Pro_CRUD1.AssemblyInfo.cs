@@ -14,7 +14,11 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WebApplication6Pro_CRUD1")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
+<<<<<<< Updated upstream
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ac278d3d03c56d913fa4e6780fc660ed397dd324")]
+=======
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+83180547a08231936c5d26a4a55ffa0edc3c8656")]
+>>>>>>> Stashed changes
 [assembly: System.Reflection.AssemblyProductAttribute("WebApplication6Pro_CRUD1")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WebApplication6Pro_CRUD1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
