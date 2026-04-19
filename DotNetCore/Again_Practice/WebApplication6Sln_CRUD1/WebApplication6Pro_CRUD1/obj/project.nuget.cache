@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "56vrj0qznJk=",
+  "dgSpecHash": "b9vtgTbLXjE=",
   "success": true,
   "projectFilePath": "F:\\Development\\DotNetCore\\Again_Practice\\WebApplication6Sln_CRUD1\\WebApplication6Pro_CRUD1\\WebApplication6Pro_CRUD1.csproj",
   "expectedPackageFiles": [
@@ -76,13 +76,13 @@
     "C:\\Users\\unknown\\.nuget\\packages\\microsoft.data.sqlclient.sni.runtime\\6.0.2\\microsoft.data.sqlclient.sni.runtime.6.0.2.nupkg.sha512",
     "C:\\Users\\unknown\\.nuget\\packages\\microsoft.diasymreader\\2.0.0\\microsoft.diasymreader.2.0.0.nupkg.sha512",
     "C:\\Users\\unknown\\.nuget\\packages\\microsoft.dotnet.scaffolding.shared\\10.0.2\\microsoft.dotnet.scaffolding.shared.10.0.2.nupkg.sha512",
-    "C:\\Users\\unknown\\.nuget\\packages\\microsoft.entityframeworkcore\\10.0.5\\microsoft.entityframeworkcore.10.0.5.nupkg.sha512",
-    "C:\\Users\\unknown\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\10.0.5\\microsoft.entityframeworkcore.abstractions.10.0.5.nupkg.sha512",
-    "C:\\Users\\unknown\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\10.0.5\\microsoft.entityframeworkcore.analyzers.10.0.5.nupkg.sha512",
-    "C:\\Users\\unknown\\.nuget\\packages\\microsoft.entityframeworkcore.design\\10.0.5\\microsoft.entityframeworkcore.design.10.0.5.nupkg.sha512",
-    "C:\\Users\\unknown\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\10.0.5\\microsoft.entityframeworkcore.relational.10.0.5.nupkg.sha512",
-    "C:\\Users\\unknown\\.nuget\\packages\\microsoft.entityframeworkcore.sqlserver\\10.0.5\\microsoft.entityframeworkcore.sqlserver.10.0.5.nupkg.sha512",
-    "C:\\Users\\unknown\\.nuget\\packages\\microsoft.extensions.dependencymodel\\10.0.5\\microsoft.extensions.dependencymodel.10.0.5.nupkg.sha512",
+    "C:\\Users\\unknown\\.nuget\\packages\\microsoft.entityframeworkcore\\10.0.6\\microsoft.entityframeworkcore.10.0.6.nupkg.sha512",
+    "C:\\Users\\unknown\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\10.0.6\\microsoft.entityframeworkcore.abstractions.10.0.6.nupkg.sha512",
+    "C:\\Users\\unknown\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\10.0.6\\microsoft.entityframeworkcore.analyzers.10.0.6.nupkg.sha512",
+    "C:\\Users\\unknown\\.nuget\\packages\\microsoft.entityframeworkcore.design\\10.0.6\\microsoft.entityframeworkcore.design.10.0.6.nupkg.sha512",
+    "C:\\Users\\unknown\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\10.0.6\\microsoft.entityframeworkcore.relational.10.0.6.nupkg.sha512",
+    "C:\\Users\\unknown\\.nuget\\packages\\microsoft.entityframeworkcore.sqlserver\\10.0.6\\microsoft.entityframeworkcore.sqlserver.10.0.6.nupkg.sha512",
+    "C:\\Users\\unknown\\.nuget\\packages\\microsoft.extensions.dependencymodel\\10.0.6\\microsoft.extensions.dependencymodel.10.0.6.nupkg.sha512",
     "C:\\Users\\unknown\\.nuget\\packages\\microsoft.identity.client\\4.73.1\\microsoft.identity.client.4.73.1.nupkg.sha512",
     "C:\\Users\\unknown\\.nuget\\packages\\microsoft.identity.client.extensions.msal\\4.73.1\\microsoft.identity.client.extensions.msal.4.73.1.nupkg.sha512",
     "C:\\Users\\unknown\\.nuget\\packages\\microsoft.identitymodel.abstractions\\7.7.1\\microsoft.identitymodel.abstractions.7.7.1.nupkg.sha512",
@@ -128,5 +128,30 @@
     "C:\\Users\\unknown\\.nuget\\packages\\system.security.cryptography.pkcs\\9.0.4\\system.security.cryptography.pkcs.9.0.4.nupkg.sha512",
     "C:\\Users\\unknown\\.nuget\\packages\\system.security.cryptography.protecteddata\\9.0.6\\system.security.cryptography.protecteddata.9.0.6.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1901",
+      "level": "Warning",
+      "message": "Package 'NuGet.Packaging' 6.12.1 has a known low severity vulnerability, https://github.com/advisories/GHSA-g4vj-cjjj-v7hg",
+      "projectPath": "F:\\Development\\DotNetCore\\Again_Practice\\WebApplication6Sln_CRUD1\\WebApplication6Pro_CRUD1\\WebApplication6Pro_CRUD1.csproj",
+      "warningLevel": 1,
+      "filePath": "F:\\Development\\DotNetCore\\Again_Practice\\WebApplication6Sln_CRUD1\\WebApplication6Pro_CRUD1\\WebApplication6Pro_CRUD1.csproj",
+      "libraryId": "NuGet.Packaging",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    },
+    {
+      "code": "NU1901",
+      "level": "Warning",
+      "message": "Package 'NuGet.Protocol' 6.12.1 has a known low severity vulnerability, https://github.com/advisories/GHSA-g4vj-cjjj-v7hg",
+      "projectPath": "F:\\Development\\DotNetCore\\Again_Practice\\WebApplication6Sln_CRUD1\\WebApplication6Pro_CRUD1\\WebApplication6Pro_CRUD1.csproj",
+      "warningLevel": 1,
+      "filePath": "F:\\Development\\DotNetCore\\Again_Practice\\WebApplication6Sln_CRUD1\\WebApplication6Pro_CRUD1\\WebApplication6Pro_CRUD1.csproj",
+      "libraryId": "NuGet.Protocol",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    }
+  ]
 }
