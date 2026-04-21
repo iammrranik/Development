@@ -43,6 +43,17 @@ public class StudentApi {
         return student;
     }
 
-    @PostMapping(@RequestParam)
+    @DeleteMapping("/api/student/{id}")
+    public String removeStudent(@PathVariable Integer id) {
+        System.out.println("Deleting student with id: " + id);
+        students.remove(id-1);
+        return "Deleted student with id: " + id;
+    }
+
+    @PutMapping("/api/student/{id}")
+    public Student updateStudent(@PathVariable Integer id, @RequestBody Student student) {
+        System.out.println("Updating student with id: " + id);
+
+    }
 
 }
