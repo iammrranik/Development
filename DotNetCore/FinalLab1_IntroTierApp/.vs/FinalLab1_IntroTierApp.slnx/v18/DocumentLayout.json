@@ -1,0 +1,83 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Development\\DotNetCore\\FinalLab1_IntroTierApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E494E9B5-0091-42A3-8B20-7EAF4B6353CC}|MVCAppLayer\\MVCAppLayer.csproj|d:\\development\\dotnetcore\\finallab1_introtierapp\\mvcapplayer\\mvcapplayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E494E9B5-0091-42A3-8B20-7EAF4B6353CC}|MVCAppLayer\\MVCAppLayer.csproj|solutionrelative:mvcapplayer\\mvcapplayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A80690B-C21C-42D0-B8D8-A9E77B279D20}|DAL\\DAL.csproj|d:\\development\\dotnetcore\\finallab1_introtierapp\\dal\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A80690B-C21C-42D0-B8D8-A9E77B279D20}|DAL\\DAL.csproj|solutionrelative:dal\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E048A12D-23B4-43FA-B059-11FBDE7765AD}|BLL\\BLL.csproj|d:\\development\\dotnetcore\\finallab1_introtierapp\\bll\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E048A12D-23B4-43FA-B059-11FBDE7765AD}|BLL\\BLL.csproj|solutionrelative:bll\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MVCAppLayer",
+              "DocumentMoniker": "D:\\Development\\DotNetCore\\FinalLab1_IntroTierApp\\MVCAppLayer\\MVCAppLayer.csproj",
+              "RelativeDocumentMoniker": "MVCAppLayer\\MVCAppLayer.csproj",
+              "ToolTip": "D:\\Development\\DotNetCore\\FinalLab1_IntroTierApp\\MVCAppLayer\\MVCAppLayer.csproj",
+              "RelativeToolTip": "MVCAppLayer\\MVCAppLayer.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-26T10:00:51.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\Development\\DotNetCore\\FinalLab1_IntroTierApp\\DAL\\Class1.cs",
+              "RelativeDocumentMoniker": "DAL\\Class1.cs",
+              "ToolTip": "D:\\Development\\DotNetCore\\FinalLab1_IntroTierApp\\DAL\\Class1.cs",
+              "RelativeToolTip": "DAL\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-26T10:00:17.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\Development\\DotNetCore\\FinalLab1_IntroTierApp\\BLL\\Class1.cs",
+              "RelativeDocumentMoniker": "BLL\\Class1.cs",
+              "ToolTip": "D:\\Development\\DotNetCore\\FinalLab1_IntroTierApp\\BLL\\Class1.cs",
+              "RelativeToolTip": "BLL\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-26T09:59:51.388Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

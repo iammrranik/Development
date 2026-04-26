@@ -52,8 +52,14 @@ public class StudentApi {
 
     @PutMapping("/api/student/{id}")
     public Student updateStudent(@PathVariable Integer id, @RequestBody Student student) {
-        System.out.println("Updating student with id: " + id);
+        if (id <= 0 || id > students.size()) {
+            return null;
+        }
 
+        student.setId(id); // enforce correct ID
+        students.set(id - 1, student);
+
+        return student;
     }
 
 }
