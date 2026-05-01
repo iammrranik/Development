@@ -1,0 +1,55 @@
+-- 1. Create the database
+CREATE DATABASE studentdb;
+
+-- 2. Tell MySQL to use this specific database
+USE studentdb;
+
+-- 3. Create the students table
+CREATE TABLE students (
+    id   INT AUTO_INCREMENT PRIMARY KEY,
+    name VARCHAR(100) NOT NULL,
+    cgpa FLOAT        NOT NULL
+);
+
+-- 4. To populate your table with 20 rows
+INSERT INTO students (name, cgpa) VALUES
+('Arif', 3.85),
+('Sajid', 3.20),
+('Nila', 3.92),
+('Fahim', 3.45),
+('Tania', 3.70),
+('Rakib', 2.80),
+('Sumon', 3.15),
+('Anika', 3.98),
+('Habib', 3.50),
+('Rina', 3.65),
+('Imran', 3.33),
+('Sonia', 3.88),
+('Kamal', 2.95),
+('Liza', 3.40),
+('Biplob', 3.10),
+('Mitu', 3.75),
+('Nasir', 3.60),
+('Farah', 3.82),
+('Zahid', 3.25),
+('Keya', 3.55);
+
+-- 5. To remove a database in MySQL
+- Drop a database, all tables and data inside it are deleted instantly
+DROP DATABASE studentdb;
+- Check if it exists (Best)
+DROP DATABASE IF EXISTS studentdb;
+
+-- 6. To remove a table in MySQL
+DROP TABLE students;
+DROP TABLE IF EXISTS students;
+
+- TRUNCATE vs DELETE
+-What it does: Deletes all rows and resets the AUTO_INCREMENT counter back to 1.
+-Best for: When you want to start over with a fresh, empty table.
+TRUNCATE TABLE students;
+
+-What it does: Deletes all rows but keeps the AUTO_INCREMENT counter where it left off.
+-Best for: Specific deletions (e.g., DELETE FROM students WHERE id = 1;).
+DELETE FROM students;
+

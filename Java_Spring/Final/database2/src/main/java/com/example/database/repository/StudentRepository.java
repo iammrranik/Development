@@ -20,7 +20,8 @@ public class StudentRepository implements IStudentRepository{
     @Override
     public Student save(Student student) {
         String sql = """
-                INSERT INTO student (name, cgpa) VALUES (:name, :cgpa)
+                INSERT INTO students (name, cgpa)
+                VALUES (:name, :cgpa)
                 """;
         MapSqlParameterSource params = new MapSqlParameterSource();
         params.addValue("name", student.getName());
@@ -32,7 +33,9 @@ public class StudentRepository implements IStudentRepository{
     @Override
     public Optional<Student> findById(Integer id) {
         String sql = """
-                SELECT name, cgpa from student where id = :id
+                SELECT id, name, cgpa
+                FROM students
+                WHERE id = :id
                 """;
         Map<String, Object> params = Map.of("id", id);
         List<Student> students = namedParameterJdbcTemplate.query(sql, params, new StudentMapper());
@@ -44,9 +47,16 @@ public class StudentRepository implements IStudentRepository{
 
     @Override
     public List<Student> findAll(int page, int size) {
-        int offset = page * size;
+        int offset;
+        if(page<=1){
+            offset = 0;
+        }else{
+            offset = (page-1)*size;
+        }
+
         String sql = """
-                SELECT name, cgpa FROM student
+                SELECT id, name, cgpa
+                FROM students
                 ORDER BY id
                 LIMIT :limit OFFSET :offset
                 """;
@@ -61,7 +71,8 @@ public class StudentRepository implements IStudentRepository{
     @Override
     public int count() {
         String sql = """
-                SELECT count(*) FROM student
+                SELECT count(*)
+                FROM students
                 """;
         return namedParameterJdbcTemplate.queryForObject(sql, new HashMap<>(), Integer.class);
     }
@@ -69,7 +80,8 @@ public class StudentRepository implements IStudentRepository{
     @Override
     public int update(Student student) {
         String sql = """
-                UPDATE student SET name=:name, cgpa=:cgpa
+                UPDATE students
+                SET name=:name, cgpa=:cgpa
                 WHERE id=:id
                 """;
         MapSqlParameterSource params = new MapSqlParameterSource();
@@ -82,7 +94,8 @@ public class StudentRepository implements IStudentRepository{
     @Override
     public int delete(int id) {
         String sql = """
-                DELETE FROM student WHERE id=:id
+                DELETE FROM students
+                WHERE id=:id
                 """;
         MapSqlParameterSource params = new MapSqlParameterSource();
         params.addValue("id", id);
