@@ -5,6 +5,7 @@ public class Customer {
     private String name;
     private String phone;
     private String address;
+    private static int totalCustomer=0;
 
     public int getId() {
         return id;
@@ -38,12 +39,24 @@ public class Customer {
         this.address = address;
     }
 
-    public Customer(int id, String name, String phone, String address) {
-        this.setId(id);
+    public static int getTotalCustomer() {
+        return totalCustomer;
+    }
+
+    public static void setTotalCustomer(int totalCustomer) {
+        Customer.totalCustomer = totalCustomer;
+    }
+
+    public Customer(String name, String phone, String address) {
+        this.setId(++totalCustomer);
         this.setName(name);
         this.setPhone(phone);
         this.setAddress(address);
     }
 
+    @Override
+    public String toString() {
+        return this.getId() + " " + this.getName() + " " + this.getPhone() + " " + this.getAddress() + "\n";
+    }
 
 }

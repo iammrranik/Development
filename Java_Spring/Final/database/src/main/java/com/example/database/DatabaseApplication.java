@@ -1,17 +1,13 @@
-package com.example.demo;
+package com.example.database;
 
-import com.example.demo.entity.Student;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
-import java.util.ArrayList;
-
 @SpringBootApplication
-public class DemoApplication {
+public class DatabaseApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(DemoApplication.class, args);
+		SpringApplication.run(DatabaseApplication.class, args);
 	}
-
 
 }

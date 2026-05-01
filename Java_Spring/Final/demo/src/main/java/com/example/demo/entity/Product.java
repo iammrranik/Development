@@ -5,14 +5,13 @@ public class Product {
     private String name;
     private int availableQuantity;
     private float unitPrice;
+    private static int totalProduct = 0;
 
     public int getId() {
         return id;
     }
 
-    public void setId(int id) {
-        this.id = id;
-    }
+    public void setId(int id) { this.id = id; }
 
     public String getName() {
         return name;
@@ -38,12 +37,24 @@ public class Product {
         this.unitPrice = unitPrice;
     }
 
-    public Product(int id, String name, int availableQuantity, float unitPrice) {
-        this.setId(id);
+    public static int getTotalProduct() {
+        return totalProduct;
+    }
+
+    public static void setTotalProduct(int totalProduct) {
+        Product.totalProduct = totalProduct;
+    }
+
+    public Product(String name, int availableQuantity, float unitPrice) {
+        this.setId(++totalProduct);
         this.setName(name);
         this.setAvailableQuantity(availableQuantity);
         this.setUnitPrice(unitPrice);
+    }
 
+    @Override
+    public String toString() {
+        return this.getId() + " " + this.getName() + " " + this.getAvailableQuantity() + " " + this.getUnitPrice() + "\n";
     }
 
 

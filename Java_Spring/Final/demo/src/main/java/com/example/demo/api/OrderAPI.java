@@ -8,7 +8,6 @@ import java.util.ArrayList;
 
 public class OrderAPI {
     static ArrayList<Order> orders = new ArrayList<>();
-    static int id = 1;
 
     public OrderAPI() { }
 
@@ -36,10 +35,9 @@ public class OrderAPI {
         product.setAvailableQuantity(product.getAvailableQuantity()-quantity);
         float totalPrice = product.getUnitPrice() *quantity;
 
-        Order order = new Order(productId, quantity, id, totalPrice);
-        id++;
+        Order order = new Order(productId, quantity, totalPrice);
         orders.add(order);
-        System.out.println("Order with id " + id + " created");
+        System.out.println("Order with id " + order.getId() + " has been created");
         return order;
     }
 

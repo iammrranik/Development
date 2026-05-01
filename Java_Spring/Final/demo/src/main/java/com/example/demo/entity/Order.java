@@ -5,6 +5,7 @@ public class Order {
     private int orderedQuantity;
     private int id;
     private float totalPrice;
+    private static int totalOrder = 0;
 
     public int getProductId() {
         return productId;
@@ -38,10 +39,18 @@ public class Order {
         this.totalPrice = totalPrice;
     }
 
-    public Order(int productId, int orderedQuantity, int id, float totalPrice) {
+    public static int getTotalOrder() {
+        return totalOrder;
+    }
+
+    public static void setTotalOrder(int totalOrder) {
+        Order.totalOrder = totalOrder;
+    }
+
+    public Order(int productId, int orderedQuantity, float totalPrice) {
         this.setProductId(productId);
         this.setOrderedQuantity(orderedQuantity);
-        this.setId(id);
+        this.setId(++totalOrder);
         this.setTotalPrice(totalPrice);
     }
 
