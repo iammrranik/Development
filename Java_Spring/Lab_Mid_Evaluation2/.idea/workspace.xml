@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f42d05f6-e23a-475e-bca6-673ccffca5d8" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../DotNetCore/Lab3_Task1_Sln/.vs/Lab3_Task1_Sln.slnx/DesignTimeBuild/.dtbcache.v2" beforeDir="false" afterPath="$PROJECT_DIR$/../../DotNetCore/Lab3_Task1_Sln/.vs/Lab3_Task1_Sln.slnx/DesignTimeBuild/.dtbcache.v2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DotNetCore/Lab3_Task1_Sln/.vs/Lab3_Task1_Sln.slnx/FileContentIndex/45cb8566-25c9-4100-a170-91d29bdf0432.vsidx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DotNetCore/Lab3_Task1_Sln/.vs/Lab3_Task1_Sln.slnx/FileContentIndex/5a796969-1076-4267-b317-8d8e073d7c2c.vsidx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DotNetCore/Lab3_Task1_Sln/.vs/Lab3_Task1_Sln.slnx/v18/.futdcache.v2" beforeDir="false" afterPath="$PROJECT_DIR$/../../DotNetCore/Lab3_Task1_Sln/.vs/Lab3_Task1_Sln.slnx/v18/.futdcache.v2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DotNetCore/Lab3_Task1_Sln/.vs/Lab3_Task1_Sln.slnx/v18/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/../../DotNetCore/Lab3_Task1_Sln/.vs/Lab3_Task1_Sln.slnx/v18/.suo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DotNetCore/Lab3_Task1_Sln/.vs/Lab3_Task1_Sln.slnx/v18/DocumentLayout.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../DotNetCore/Lab3_Task1_Sln/.vs/Lab3_Task1_Sln.slnx/v18/DocumentLayout.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DotNetCore/Lab3_Task1_Sln/.vs/ProjectEvaluation/lab3_task1_sln.metadata.v10.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../DotNetCore/Lab3_Task1_Sln/.vs/ProjectEvaluation/lab3_task1_sln.metadata.v10.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DotNetCore/Lab3_Task1_Sln/.vs/ProjectEvaluation/lab3_task1_sln.projects.v10.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../DotNetCore/Lab3_Task1_Sln/.vs/ProjectEvaluation/lab3_task1_sln.projects.v10.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DotNetCore/Lab3_Task1_Sln/.vs/ProjectEvaluation/lab3_task1_sln.strings.v10.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../DotNetCore/Lab3_Task1_Sln/.vs/ProjectEvaluation/lab3_task1_sln.strings.v10.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DotNetCore/Lab3_Task1_Sln/Lab3_Task1_Pro/obj/Debug/net10.0/Lab3_Task1_Pro.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../DotNetCore/Lab3_Task1_Sln/Lab3_Task1_Pro/obj/Debug/net10.0/Lab3_Task1_Pro.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DotNetCore/Lab3_Task1_Sln/Lab3_Task1_Pro/obj/Debug/net10.0/Lab3_Task1_Pro.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../../DotNetCore/Lab3_Task1_Sln/Lab3_Task1_Pro/obj/Debug/net10.0/Lab3_Task1_Pro.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DotNetCore/Lab3_Task1_Sln/Lab3_Task1_Pro/obj/Debug/net10.0/Lab3_Task1_Pro.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/../../DotNetCore/Lab3_Task1_Sln/Lab3_Task1_Pro/obj/Debug/net10.0/Lab3_Task1_Pro.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DotNetCore/Lab3_Task1_Sln/Lab3_Task1_Pro/obj/Debug/net10.0/Lab3_Task1_Pro.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../../DotNetCore/Lab3_Task1_Sln/Lab3_Task1_Pro/obj/Debug/net10.0/Lab3_Task1_Pro.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DotNetCore/Lab3_Task1_Sln/Lab3_Task1_Pro/obj/Debug/net10.0/rpswa.dswa.cache.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../DotNetCore/Lab3_Task1_Sln/Lab3_Task1_Pro/obj/Debug/net10.0/rpswa.dswa.cache.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DotNetCore/Lab3_Task1_Sln/Lab3_Task1_Pro/obj/Debug/net10.0/staticwebassets.removed.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../DotNetCore/Lab3_Task1_Sln/Lab3_Task1_Pro/obj/Debug/net10.0/staticwebassets.removed.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DotNetCore/Lab3_Task1_Sln/Lab3_Task1_Pro/obj/Lab3_Task1_Pro.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../DotNetCore/Lab3_Task1_Sln/Lab3_Task1_Pro/obj/Lab3_Task1_Pro.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DotNetCore/Lab3_Task1_Sln/Lab3_Task1_Pro/obj/Lab3_Task1_Pro.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/../../DotNetCore/Lab3_Task1_Sln/Lab3_Task1_Pro/obj/Lab3_Task1_Pro.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DotNetCore/Lab3_Task1_Sln/Lab3_Task1_Pro/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../DotNetCore/Lab3_Task1_Sln/Lab3_Task1_Pro/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DotNetCore/Lab3_Task1_Sln/Lab3_Task1_Pro/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../../DotNetCore/Lab3_Task1_Sln/Lab3_Task1_Pro/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ProgrammingInPythonLab/Others/auto_mini_brave.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../ProgrammingInPythonLab/Others/auto_mini_brave.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 6
+}]]></component>
+  <component name="ProjectId" id="3Ay2UPVK9sm0UyaDCiGvdjTMAlu" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "D:/Development/Java_Spring/Lab_Mid_Evaluation2/src/Main.java"
+  }
+}]]></component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f42d05f6-e23a-475e-bca6-673ccffca5d8" name="Changes" comment="" />
+      <created>1773550513491</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1773550513491</updated>
+    </task>
+    <servers />
+  </component>
+</project>
