@@ -1,3 +1,5 @@
 <Solution>
-  <Project Path="MVCAppLayer/MVCAppLayer.csproj" />
+  <Project Path="D:/Development/DotNetCore/FinalLab2_ProductTierApp/BLL/BLL.csproj" />
+  <Project Path="D:/Development/DotNetCore/FinalLab2_ProductTierApp/DAL/DAL.csproj" />
+  <Project Path="D:/Development/DotNetCore/FinalLab2_ProductTierApp/MVCAppLayer/MVCAppLayer.csproj" />
 </Solution>
