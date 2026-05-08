@@ -1,0 +1,24 @@
+
+Feature,HTTP Method,Endpoint URL,Required Inputs
+
+Members,,,
+Add Member,POST,/api/members,"JSON Body: { ""name"", ""email"", ""phone"" }"
+Update Member,PUT,/api/members,"JSON Body: { ""id"", ""name"", ""email"", ""phone"" }"
+Delete Member,DELETE,/api/members/{id},Path Variable: id
+Get Member,GET,/api/members/{id},Path Variable: id
+List Members,GET,/api/members/{page}/{size},"Path Variables: page, size"
+
+Books,,,
+Add Book,POST,/api/books,"JSON Body: { ""title"", ""author"", ""availableCopies"", ""price"" }"
+Update Book,PUT,/api/books,"JSON Body: { ""id"", ""title"", ""author"", ... }"
+Delete Book,DELETE,/api/books/{id},Path Variable: id
+Get Book,GET,/api/books/{id},Path Variable: id
+List Books,GET,/api/books/{page}/{size},"Path Variables: page, size"
+Total Stock,GET,/api/books/count,None
+
+Orders,,,
+Borrow Book,POST,/api/orders/borrow,"Query Params: memberId, bookId, quantity"
+Return Book,POST,/api/orders/return/{id},Path Variable: orderId (Borrow ID)
+List History,GET,/api/orders,None
+View Order,GET,/api/orders/{id},Path Variable: id
+

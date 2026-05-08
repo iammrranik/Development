@@ -7035,23 +7035,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\madma\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\unknown\\.nuget\\packages\\": {},
+    "E:\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Development\\DotNetCore\\Again_Practice\\WebApplication6Sln_CRUD1\\WebApplication6Pro_CRUD1\\WebApplication6Pro_CRUD1.csproj",
+      "projectUniqueName": "F:\\Development\\DotNetCore\\Again_Practice\\WebApplication6Sln_CRUD1\\WebApplication6Pro_CRUD1\\WebApplication6Pro_CRUD1.csproj",
       "projectName": "WebApplication6Pro_CRUD1",
-      "projectPath": "D:\\Development\\DotNetCore\\Again_Practice\\WebApplication6Sln_CRUD1\\WebApplication6Pro_CRUD1\\WebApplication6Pro_CRUD1.csproj",
-      "packagesPath": "C:\\Users\\madma\\.nuget\\packages\\",
-      "outputPath": "D:\\Development\\DotNetCore\\Again_Practice\\WebApplication6Sln_CRUD1\\WebApplication6Pro_CRUD1\\obj\\",
+      "projectPath": "F:\\Development\\DotNetCore\\Again_Practice\\WebApplication6Sln_CRUD1\\WebApplication6Pro_CRUD1\\WebApplication6Pro_CRUD1.csproj",
+      "packagesPath": "C:\\Users\\unknown\\.nuget\\packages\\",
+      "outputPath": "F:\\Development\\DotNetCore\\Again_Practice\\WebApplication6Sln_CRUD1\\WebApplication6Pro_CRUD1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        "E:\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\madma\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\unknown\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -7129,12 +7129,6 @@
     }
   },
   "logs": [
-    {
-      "code": "Undefined",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Problem reading the cache file D:\\Development\\DotNetCore\\Again_Practice\\WebApplication6Sln_CRUD1\\WebApplication6Pro_CRUD1\\obj\\project.nuget.cache : '<' is an invalid start of a property name. Expected a '\"'. Path: $ | LineNumber: 2 | BytePositionInLine: 0."
-    },
     {
       "code": "NU1901",
       "level": "Warning",
